@@ -1,0 +1,131 @@
+Nina: Alright, everyone, let’s get started. We’ve got a lot to cover today, so I’m hoping we can stay focused but also keep it productive. First up, robot navigation improvements — Raj, how’s that going?
+
+Raj: Uh, yeah, so, I was testing the new SLAM algorithm last week. It’s working pretty well in the lab environment but... uh, kinda struggles when there’s dynamic obstacles, like people moving around.
+
+Maya: Yeah, that’s expected. The real world is messy. Did you try adjusting the parameters for obstacle prediction?
+
+Raj: I did. Tweaked a few things here and there. Helped a bit, but not enough. Maybe we need to integrate a dynamic obstacle model or something more adaptive.
+
+Nina: Okay, sounds like a plan. Can you prioritize that for this sprint?
+
+Raj: Yeah, I can work on integrating that this week, although I’m a bit swamped with other tasks, but I’ll try to make it happen.
+
+Maya: Oh, speaking of sensors, the new LIDAR we got last month? It’s showing some noise issues.
+
+Nina: What kind of noise?
+
+Maya: Sporadic spikes in readings, especially near reflective surfaces. Like, sometimes it detects a wall at three meters, other times at like 30 centimeters. It’s messing up the obstacle detection.
+
+Raj: Hmm, could be either hardware or software. Have you tried any filtering algorithms?
+
+Maya: Yeah, I started with a basic median filter, but it might need something more advanced, maybe a Kalman filter or something adaptive.
+
+Nina: Raj, could you help Maya with that? Maybe collaborate on a better filtering approach?
+
+Raj: Yeah, that makes sense. I’ll set aside some time to look into it. Probably Thursday or Friday.
+
+Maya: Great, thanks.
+
+Nina: Now, about the paper deadline — it’s next month, right?
+
+Liam: Yep, November 30th.
+
+Nina: So we need to finalize experiments and results by November 20th, to have enough time for writing and revisions.
+
+Maya: Speaking of experiments, I ran the latest robot in the cluttered environment scenario last week. The success rate was about 65%, which is up from 55% last time.
+
+Raj: Nice progress! Good to hear.
+
+Liam: But we still need to get to at least 80% to be competitive for the conference.
+
+Nina: Agreed. What’s blocking the improvements?
+
+Raj: Mainly the dynamic obstacle handling, like I said.
+
+Maya: And some issues with localization drift. The robot tends to wander off after a few minutes.
+
+Liam: I’m working on a new drift correction algorithm, but it’s not fully tested yet.
+
+Nina: Okay, Liam, prioritize testing and tuning that. Can you have a prototype by next week?
+
+Liam: I’ll do my best. If I can get it done earlier, even better.
+
+Nina: For writing, I suggest we split the paper into sections — intro, methodology, experiments, results, discussion. Raj, you and Maya can draft methodology and experiments sections?
+
+Raj: Yeah, sounds good.
+
+Maya: Sure, happy to.
+
+Nina: Liam, can you work on results and discussion?
+
+Liam: Will do.
+
+Nina: And I’ll handle intro and abstract.
+
+Maya: Should we schedule a writing session next week?
+
+Nina: Good idea. How about Tuesday at 3 PM?
+
+Raj: Works for me.
+
+Liam: Same here.
+
+Maya: Okay, Tuesday it is.
+
+Nina: Great. On resources, any needs? Budget, equipment?
+
+Raj: We might need an extra LIDAR sensor. The current one’s getting heavy use, and sometimes it’s being sent back for repairs.
+
+Nina: Let me check with admin. Hopefully, they can fast-track a new order.
+
+Maya: Also, the simulation environment crashed twice last week. We need to update it.
+
+Raj: Yeah, the new update introduced some bugs. The physics engine isn’t syncing correctly with the robot model.
+
+Liam: I can help test patches when they come out.
+
+Nina: Thanks, Liam. That’ll be a big help.
+
+Maya: On outreach, we got invited to demo at the robotics conference in December.
+
+Raj: That’s exciting! But I’m a bit worried if the robot is stable enough.
+
+Nina: Yeah, same here. Is the current robot ready for demo?
+
+Maya: Not fully. We need at least two more weeks of testing, especially on battery life and obstacle avoidance.
+
+Nina: Okay, so demo stability is the priority.
+
+Raj: Also, the robot’s battery life is low. Should we look into replacements or optimize power consumption?
+
+Maya: Maybe both. I’ve noticed some modules draw more current than expected.
+
+Liam: Yeah, I think a power audit is due.
+
+Nina: Let’s plan for that next week.
+
+Maya: Sounds good.
+
+Nina: Any blockers or risks?
+
+Raj: The main risk is underestimating the time needed for dynamic obstacle integration.
+
+Maya: Also, potential delays in hardware delivery could hold us back.
+
+Nina: Okay, keep monitoring those. Any other issues?
+
+Raj: One more thing — I noticed our data logging system is inconsistent. Sometimes data packets get lost during wireless transmission.
+
+Maya: Yeah, I’ve seen that too. Could be network interference.
+
+Liam: Possibly. Could also be software bugs.
+
+Nina: Let’s have an audit of the logging system by Friday.
+
+Raj: Will do.
+
+Nina: Alright, final recap: Raj to prioritize dynamic obstacle integration and help Maya with filtering; Liam to test drift correction and assist with logging audit; Maya to handle sensor noise and run experiments; writing sessions Tuesday at 3 PM; demo prep ongoing with stability priority; admin to check on new LIDAR; power audit next week.
+
+Everyone: Got it.
+
+Nina: Thanks all for the updates and hard work. Alright, take care everyone! See you soon.

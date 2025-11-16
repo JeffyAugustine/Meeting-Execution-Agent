@@ -1,0 +1,129 @@
+Elena: Hey team, thanks for joining. Let’s dive in. First up, hardware prototype status — Mark, how’s the new sensor array coming along?
+
+Mark: Hey, yeah, the sensor array is about 80% assembled. Had some issues with the calibration on the temperature sensors, took longer than expected.
+
+Jin: Calibration’s tricky. What’s the main challenge there?
+
+Mark: The sensors are sensitive to ambient heat fluctuations. We had to redo the baseline measurements twice.
+
+Elena: Okay, can you have it stabilized by end of the week?
+
+Mark: I’m pushing for it, but might need extra help.
+
+Jin: I can spare some time Thursday to assist.
+
+Elena: Great.
+
+Sofia: On the integration side, the firmware update we did last week caused some intermittent resets on the main control board.
+
+Mark: Yeah, that’s affecting sensor readings too, right?
+
+Sofia: Exactly. We’re tracking down the root cause, suspecting power spikes.
+
+Elena: Any mitigation plan?
+
+Sofia: Implementing a power smoothing circuit, hoping that helps.
+
+Mark: I’ll coordinate with Jin to verify power supply stability.
+
+Jin: Sounds good.
+
+Elena: What about the battery subsystem? Any updates?
+
+Mark: Batteries are rated well but the actual runtime is about 15% less than spec.
+
+Jin: Might be due to firmware resets.
+
+Sofia: Or maybe sensor power draw higher than expected.
+
+Elena: Prioritize analyzing that this week.
+
+Mark: Will do.
+
+Sofia: Also, we’re prepping for a field test next month. Need to ensure all components pass stress tests.
+
+Elena: Right, testing schedule?
+
+Mark: Plan is next two weeks for lab tests, then a week of outdoor trials.
+
+Jin: I’ll work on environmental noise mitigation in the firmware.
+
+Sofia: Great. Regarding the mechanical mounts, we had some alignment issues during assembly.
+
+Elena: How bad?
+
+Mark: Minor, but could cause sensor misreads if not fixed.
+
+Sofia: We’re designing adjustable mounts to compensate.
+
+Elena: Good.
+
+Mark: On software, I’m collaborating with Jin on improving sensor fusion algorithms to handle noisy inputs.
+
+Jin: Yeah, working on a Kalman filter tweak.
+
+Elena: Excellent.
+
+Sofia: For documentation, we’re updating the integration guide this week.
+
+Elena: Perfect, keep it current.
+
+Mark: One blocker is the delay in custom cables — vendor moved delivery from Monday to Thursday.
+
+Elena: Keep chasing.
+
+Sofia: On team resources, anyone overloaded?
+
+Jin: I’m good, but might need help with power analysis.
+
+Mark: I can pitch in if needed.
+
+Elena: Alright, if needed, Mark can support.
+
+Sofia: Any safety concerns?
+
+Mark: Not currently, but we’re monitoring temperature spikes.
+
+Elena: Good. For demo planning, are we aligned on key features to show?
+
+Jin: Sensors working reliably, battery endurance data, and stable firmware.
+
+Sofia: Also, the new mounting design.
+
+Elena: Let’s prep slides and data for that.
+
+Mark: On testing, some intermittent firmware crashes were reported. We need to debug.
+
+Jin: I’ll set up detailed logs for that.
+
+Sofia: Good plan.
+
+Elena: Any new risks?
+
+Mark: Custom cable delays might push back integration.
+
+Jin: Firmware instability could cause demo issues.
+
+Sofia: Battery runtime variance needs attention.
+
+Elena: Okay, risk mitigation is key.
+
+Mark: On the positive side, sensor calibration is improving steadily.
+
+Jin: Fusion algorithm updates look promising.
+
+Sofia: Field test planning is on track.
+
+Elena: Awesome.
+
+Mark: For next week, prioritize calibration, firmware stabilization, and documentation updates.
+
+Jin: I’ll focus on power and sensor fusion.
+
+Sofia: I’ll track integration issues and help with testing.
+
+Elena: Thanks, team. Final recap: sensor calibration and assembly 80% done; firmware reset root cause investigation ongoing; battery runtime 15% under spec; testing schedule in place; demo prep underway; risks around cables and firmware; documentation updates this week.
+
+Everyone: Got it.
+
+Elena: Meeting adjourned. Thanks all.

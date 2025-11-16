@@ -1,0 +1,227 @@
+Jeffy: Okay folks, let's get started. We have about 20 minutes. Mira, wanna kick us off with where we stand on the roadmap?
+
+Mira: Yeah, sure. So the Q1 roadmap is mostly set. Uh, we have two things still kinda hanging — the onboarding revamp and the advanced analytics pilot. I need clarity if onboarding stays top priority or if we push analytics forward.
+
+Jeffy: Hmm, onboarding is still pretty painful for users, right? The drop-off’s bad?
+
+Mira: Yeah, it's been a major pain point. User churn data shows a lot of folks dropping during onboarding.
+
+Arun: Tech-wise, we could start backend work on analytics now, but the frontend visualization isn’t ready. If we rush, users get a half-finished experience.
+
+Leah: From research, last week’s user tests showed people like the idea of analytics, but the onboarding friction is stopping actual adoption.
+
+Jeffy: So onboarding is urgent and impactful. Analytics is important but less urgent. Mira, please update the roadmap to reflect that, and push analytics pilot to March?
+
+Mira: Yep, I'll shift timelines.
+
+Jeffy: Also, Mira, I want 3 concrete KPIs to measure onboarding success within 30 days. Can you do that by tomorrow morning?
+
+Mira: Uh, yeah, that's doable. I'll have something by then.
+
+Leah: Should we plan a quick usability test after the new onboarding prototype is ready? Nothing big, like two sessions max?
+
+Jeffy: Sounds good. Keep it lightweight.
+
+Arun: Engineering can do backend changes this week and UI next week. We're aiming for a Thursday internal demo.
+
+Jeffy: Perfect.
+
+Mira: Oh, marketing asked if onboarding is a big launch or silent update.
+
+Jeffy: Silent. No ads or blog posts.
+
+Leah: I'll keep messaging consistent.
+
+Jeffy: Blockers?
+
+Arun: Waiting on design assets tonight.
+
+Leah: You'll have them by 8 PM.
+
+Jeffy: Quick recap — onboarding top priority, analytics to March, KPIs tomorrow, demo Thursday, no marketing hype.
+
+Everyone: Got it.
+
+Jeffy: Alright, let’s dig into more details.
+
+Mira: Okay, so for onboarding KPIs, I was thinking of tracking: first, completion rate within 7 days; second, time to first key action; third, NPS from new users post-onboarding.
+
+Jeffy: Good start. What about drop-off points?
+
+Mira: We'll instrument detailed funnel tracking to spot where users leave.
+
+Leah: We saw biggest drop-offs around the second step, which asks for permissions.
+
+Jeffy: Yeah, that permission screen is tricky.
+
+Arun: Technically, we can optimize that screen by deferring some permissions, maybe ask later.
+
+Mira: That could reduce friction. Should we test that variant?
+
+Jeffy: Yes, put that in as an A/B test post-launch.
+
+Leah: User feedback shows confusion on why certain permissions are needed upfront.
+
+Jeffy: Could we add more explanatory microcopy?
+
+Daniel (design, joining): Sorry to jump in, but adding short tooltips could help here.
+
+Jeffy: Sounds good, Daniel. Can you work on that?
+
+Daniel: Will do.
+
+Mira: Another point — do we have the capacity to deliver all onboarding steps this quarter? Some features are still pending.
+
+Arun: Some backend work is in progress, but we might have to cut scope if timelines tighten.
+
+Jeffy: Let’s prioritize core onboarding steps first. Extras can wait.
+
+Leah: For usability testing, do we have a recruitment plan?
+
+Mira: Yes, targeting a mix of new users and those who dropped out previously.
+
+Jeffy: Excellent. Make sure to record sessions for analysis.
+
+Leah: Already planned.
+
+Mira: Also, one risk — analytics pilot push might disappoint marketing.
+
+Jeffy: We need to manage expectations. Leah, please help draft messaging to internal teams.
+
+Leah: On it.
+
+Arun: About analytics backend, if we delay pilot, can we use this time to improve data accuracy?
+
+Jeffy: Absolutely. Use the extra time to fix data pipeline bugs.
+
+Mira: For the roadmap update, do you want a formal doc or just a quick deck?
+
+Jeffy: Deck with key changes and dates. Keep it tight.
+
+Mira: Okay.
+
+Leah: Are we planning any customer webinars post-onboarding launch?
+
+Jeffy: Not immediately. Let’s see adoption numbers first.
+
+Mira: Got it.
+
+Jeffy: Now, about the Thursday demo — what exactly are we showing?
+
+Arun: Core onboarding flow, backend integrated, UI mostly done, no fancy animations.
+
+Jeffy: Good. No distractions.
+
+Mira: Will product be ready to field questions?
+
+Jeffy: Yes, Mira, you should be prepped.
+
+Leah: I can prepare quick user feedback snippets for the demo.
+
+Jeffy: Perfect.
+
+Mira: What about post-demo action items?
+
+Jeffy: Demo feedback gets collated, prioritized, and sprint backlog updated.
+
+Leah: Should we invite customer success team?
+
+Jeffy: Yeah, good idea.
+
+Arun: QA is prepping test cases for onboarding. Will do smoke tests by Wednesday.
+
+Jeffy: Excellent.
+
+Mira: Is there any known blocker that can delay Thursday?
+
+Arun: Design asset delay, but Daniel is on it.
+
+Daniel: Yep, finishing final icons today.
+
+Leah: I'll review those tomorrow morning.
+
+Jeffy: Great.
+
+Mira: For KPIs, we might want to add qualitative feedback, like “ease of use” rating.
+
+Jeffy: Good call.
+
+Leah: We'll add that to post-onboarding survey.
+
+Jeffy: Okay, let’s talk about staffing. Any resource crunch?
+
+Mira: Design is tight, Daniel juggling multiple projects.
+
+Arun: Engineering headcount stable for now.
+
+Jeffy: Can we get an intern in design?
+
+Mira: I’ll push for it.
+
+Leah: HR said they have candidates lined up.
+
+Jeffy: Cool, please speed that up.
+
+Mira: One more thing — do we want to build onboarding as modular pieces for future iterations?
+
+Arun: Technically yes, but more upfront work.
+
+Jeffy: Worth it. Build modular to avoid rewrites later.
+
+Mira: Got it.
+
+Leah: For user testing, some participants requested clearer error messages.
+
+Jeffy: Definitely a must.
+
+Daniel: Will work on error message designs next week.
+
+Jeffy: Good.
+
+Mira: Marketing still wants early heads-up on onboarding progress.
+
+Jeffy: Weekly email updates to them.
+
+Mira: Okay.
+
+Leah: About analytics, any thoughts on how to frame pilot success?
+
+Jeffy: Metrics like engagement rate, feature usage, and feedback scores.
+
+Mira: Makes sense.
+
+Arun: Need to clarify analytics data retention policy.
+
+Jeffy: Compliance check with legal.
+
+Mira: I’ll coordinate.
+
+Leah: For onboarding, any plans to support multi-language in Q1?
+
+Jeffy: That’s stretch — not for initial launch.
+
+Mira: Okay.
+
+Daniel: Visuals might need adjustments for internationalization.
+
+Jeffy: Keep that in backlog.
+
+Mira: Regarding user support, is there a help doc update planned?
+
+Leah: Yes, updating onboarding help pages this week.
+
+Jeffy: Great.
+
+Mira: I think that covers most points.
+
+Jeffy: Yeah, thanks team. Final quick recap: onboarding priority one, analytics pilot March, KPIs by tomorrow, Thursday demo on core onboarding, no marketing hype, intern request underway, modular onboarding build.
+
+Mira: All noted.
+
+Leah: Yep.
+
+Arun: Ready to execute.
+
+Daniel: On it.
+
+Jeffy: Meeting adjourned.

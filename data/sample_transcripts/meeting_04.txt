@@ -1,0 +1,91 @@
+Sam: Okay everyone, thanks for making time today. We’ve got a lot to cover, so I want us to try and be efficient but thorough. First, Priya, how are those new experiment setups coming along? You mentioned some issues last time.
+
+Priya: Yeah, so, the obstacle course is fully built now, but the timing sensors... well, they're being a bit flaky. Like, they sometimes miss the triggers. It’s intermittent, so we’re not sure if it’s wiring or firmware. I’ve reached out to the vendor — they’re supposed to send replacements next week.
+
+Derek: I noticed the same during my test runs on Thursday. Some triggers just don’t fire, which means some runs end up with incomplete logs. It’s been a little frustrating because we have to cross-check manually.
+
+Sam: That’s not ideal, but sounds manageable. Priya, in the meantime, can the team do manual logging as a backup? I know it’s tedious, but it’ll help keep data continuity.
+
+Priya: Yeah, we’ve talked about that. I’ll coordinate with Derek to set up a simple logging sheet or app for the next couple of weeks.
+
+Derek: I’ll take the lead on organizing the manual logs. Should be straightforward. I’ll check with the team to make sure everyone’s on board.
+
+Sam: Perfect. Also, Priya, you mentioned last week’s data is partially corrupted due to those sensor issues?
+
+Priya: Yeah, unfortunately about 20% of the data from last week’s runs got corrupted or has gaps. So, while we have enough to start preliminary analysis, it’s not ideal for definitive conclusions.
+
+Derek: On the bright side, the runs we do have show a noticeable improvement in the robot’s path planning — fewer collisions overall.
+
+Sam: That’s encouraging. Let’s be sure to document that carefully, especially the improvement metrics. Priya, can you ensure those go into the report?
+
+Priya: Absolutely, I’ll update the notes and stats this afternoon.
+
+Sam: Thanks. Switching gears — battery life. I heard there were some unexpected shutdowns during runs?
+
+Derek: Yeah, we observed the robot shutting down early a couple times. Not consistent, but enough to be concerning.
+
+Priya: The logs are a bit noisy, making it hard to pinpoint if it’s hardware or maybe firmware-related.
+
+Derek: I’m planning to apply some filters to clean the data and will collaborate with Priya to dig deeper.
+
+Sam: Great teamwork. Derek and Priya, sync up on that and keep me posted.
+
+Priya: Will do.
+
+Derek: For sure.
+
+Sam: Now, the conference demo is coming up in December. We need to nail down what experiments to showcase. Given the sensor issues, any thoughts?
+
+Priya: I’d suggest focusing on the obstacle avoidance and path optimization — those have stable data and look solid.
+
+Derek: Agreed. The battery life issues make a live demo risky. We don’t want unexpected shutdowns on stage.
+
+Sam: Good call. Let’s avoid surprises. Maybe a recorded demo of the full run, supplemented with live Q&A?
+
+Priya: That’s smart.
+
+Derek: Plus, we can have the robot do a short, simple demo live — nothing too complex.
+
+Sam: Exactly. Also, please update the experiment wiki pages with notes on sensor glitches and missing data, so the whole team is aware.
+
+Priya: I’ll take that on and aim to finish today.
+
+Derek: I’ll handle updating the data analysis section.
+
+Sam: Awesome. Any blockers?
+
+Priya: Waiting on the new sensors is the big one.
+
+Derek: And clean power logs for battery analysis.
+
+Sam: Okay. How about staffing — anyone overloaded?
+
+Priya: I’m handling fine, but it’s a bit tight with the sensor issue follow-ups.
+
+Derek: Same here. Managing alright.
+
+Sam: Cool. On the writing side, Nina, how’s the paper draft coming?
+
+Nina: The first draft of methods and results is mostly done. We’re aiming to circulate it by Friday for internal review.
+
+Sam: Great. Do you have a review session scheduled?
+
+Nina: Yeah, Monday afternoon. I’ll send calendar invites.
+
+Sam: Perfect. Any other questions or concerns?
+
+Priya: Should we add a section about experimental limitations in the paper? Like transparency on sensor and battery issues.
+
+Sam: Definitely. It’s important to be upfront about that.
+
+Derek: Agreed. Helps reviewers and readers understand the context.
+
+Sam: Alright, last recap before we wrap: manual logging backup in place; battery logs analysis by Derek and Priya; demo focus on obstacle avoidance; wiki pages to be updated; paper draft ready Friday, review Monday.
+
+Priya: Got it.
+
+Derek: Sounds good.
+
+Nina: Yup.
+
+Sam: Okay team, thanks for the updates and hard work. Alright, take care, bubye!
