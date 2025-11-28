@@ -1,0 +1,2168 @@
+{
+  "meeting_01": {
+    "metadata": {
+      "generated_at": "2025-11-27T20:26:26.492259",
+      "meeting_file": "meeting_01.txt",
+      "total_tasks": 24
+    },
+    "analysis_results": {
+      "tasks": [
+        {
+          "title": "Update Q1 roadmap",
+          "description": "Update the Q1 roadmap to reflect onboarding as top priority and push the advanced analytics pilot to March.",
+          "owner": "Mira",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mira, please update the roadmap to reflect that, and push analytics pilot to March?"
+        },
+        {
+          "title": "Define 3 onboarding success KPIs",
+          "description": "Define 3 concrete Key Performance Indicators to measure onboarding success within 30 days.",
+          "owner": "Mira",
+          "deadline": "Tomorrow morning",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mira, I want 3 concrete KPIs to measure onboarding success within 30 days. Can you do that by tomorrow morning?"
+        },
+        {
+          "title": "Plan lightweight usability test for new onboarding",
+          "description": "Plan a quick, lightweight usability test (max two sessions) for the new onboarding prototype once it's ready.",
+          "owner": "Leah",
+          "deadline": "After new onboarding prototype is ready",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Leah: Should we plan a quick usability test after the new onboarding prototype is ready? Nothing big, like two sessions max? Jeffy: Sounds good. Keep it lightweight."
+        },
+        {
+          "title": "Ensure consistent messaging for silent onboarding launch",
+          "description": "Ensure internal and external messaging is consistent with the decision for a silent onboarding update (no ads or blog posts).",
+          "owner": "Leah",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Leah: I'll keep messaging consistent."
+        },
+        {
+          "title": "Deliver design assets to engineering",
+          "description": "Deliver the necessary design assets to Arun for engineering work.",
+          "owner": "Leah",
+          "deadline": "Tonight by 8 PM",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Leah: You'll have them by 8 PM."
+        },
+        {
+          "title": "Plan A/B test for deferred permissions",
+          "description": "Plan and implement an A/B test to evaluate deferring some permissions on the second onboarding step post-launch.",
+          "owner": "Mira",
+          "deadline": "Post-launch",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Yes, put that in as an A/B test post-launch."
+        },
+        {
+          "title": "Design and add explanatory microcopy/tooltips",
+          "description": "Design and add short explanatory tooltips for the permission screen to reduce user confusion.",
+          "owner": "Daniel",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Sounds good, Daniel. Can you work on that? Daniel: Will do."
+        },
+        {
+          "title": "Record usability test sessions",
+          "description": "Ensure all usability test sessions are recorded for detailed analysis.",
+          "owner": "Leah",
+          "deadline": "Before/During usability tests",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Jeffy: Excellent. Make sure to record sessions for analysis."
+        },
+        {
+          "title": "Draft internal messaging regarding analytics pilot delay",
+          "description": "Draft messaging to internal teams (e.g., marketing) to manage expectations about the analytics pilot being pushed to March.",
+          "owner": "Leah",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Leah, please help draft messaging to internal teams."
+        },
+        {
+          "title": "Fix data pipeline bugs for analytics",
+          "description": "Use the extra time from the analytics pilot delay to identify and fix data pipeline bugs to improve data accuracy.",
+          "owner": "Arun",
+          "deadline": "Before analytics pilot in March",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Absolutely. Use the extra time to fix data pipeline bugs."
+        },
+        {
+          "title": "Prepare roadmap update deck",
+          "description": "Prepare a concise deck outlining the key changes and dates in the updated Q1 roadmap.",
+          "owner": "Mira",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Deck with key changes and dates. Keep it tight."
+        },
+        {
+          "title": "Prepare for Q&A at Thursday onboarding demo",
+          "description": "Prepare to field questions from the team during the internal onboarding demo on Thursday.",
+          "owner": "Mira",
+          "deadline": "Before Thursday internal demo",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Yes, Mira, you should be prepped."
+        },
+        {
+          "title": "Prepare user feedback snippets for onboarding demo",
+          "description": "Prepare quick user feedback snippets to present during the internal onboarding demo.",
+          "owner": "Leah",
+          "deadline": "Before Thursday internal demo",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Leah: I can prepare quick user feedback snippets for the demo."
+        },
+        {
+          "title": "Invite customer success to onboarding demo",
+          "description": "Invite the customer success team to the internal onboarding demo on Thursday.",
+          "owner": "Leah",
+          "deadline": "Before Thursday internal demo",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Leah: Should we invite customer success team? Jeffy: Yeah, good idea."
+        },
+        {
+          "title": "Conduct smoke tests for onboarding",
+          "description": "QA team to conduct smoke tests for the onboarding flow.",
+          "owner": "Arun",
+          "deadline": "By Wednesday",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Arun: QA is prepping test cases for onboarding. Will do smoke tests by Wednesday."
+        },
+        {
+          "title": "Finish final design icons",
+          "description": "Finish the remaining final design icons for onboarding, which are currently a blocker.",
+          "owner": "Daniel",
+          "deadline": "Today",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Daniel: Yep, finishing final icons today."
+        },
+        {
+          "title": "Review final design icons",
+          "description": "Review the final design icons completed by Daniel.",
+          "owner": "Leah",
+          "deadline": "Tomorrow morning",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Leah: I'll review those tomorrow morning."
+        },
+        {
+          "title": "Add qualitative feedback to post-onboarding survey",
+          "description": "Add a qualitative feedback question, such as an 'ease of use' rating, to the post-onboarding survey.",
+          "owner": "Leah",
+          "deadline": "Before post-onboarding survey launch",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Leah: We'll add that to post-onboarding survey."
+        },
+        {
+          "title": "Expedite hiring of design intern",
+          "description": "Expedite the process for hiring a design intern to address the current design resource crunch, as HR has candidates lined up.",
+          "owner": "Mira, Leah",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Jeffy: Cool, please speed that up."
+        },
+        {
+          "title": "Build onboarding as modular pieces",
+          "description": "Ensure the onboarding flow is built using modular components to facilitate future iterations and avoid rewrites.",
+          "owner": "Arun",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Worth it. Build modular to avoid rewrites later."
+        },
+        {
+          "title": "Design clearer error messages",
+          "description": "Design clearer and more helpful error messages for the onboarding flow based on user feedback.",
+          "owner": "Daniel",
+          "deadline": "Next week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Daniel: Will work on error message designs next week."
+        },
+        {
+          "title": "Send weekly onboarding progress updates to Marketing",
+          "description": "Send weekly email updates to the marketing team regarding the onboarding progress.",
+          "owner": "Mira",
+          "deadline": "Weekly, ongoing",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Weekly email updates to them."
+        },
+        {
+          "title": "Coordinate legal compliance check for analytics data retention",
+          "description": "Coordinate with the legal team for a compliance check on the analytics data retention policy.",
+          "owner": "Mira",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mira: I\u2019ll coordinate."
+        },
+        {
+          "title": "Update onboarding help pages",
+          "description": "Update the relevant help pages for the new onboarding experience.",
+          "owner": "Leah",
+          "deadline": "This week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Leah: Yes, updating onboarding help pages this week."
+        }
+      ],
+      "meeting_summary": "The meeting established the onboarding revamp as the top priority for Q1, pushing the advanced analytics pilot to March. Key outcomes included defining onboarding KPIs, planning usability tests, and preparing for a Thursday internal demo, with a focus on modular development and a silent launch.",
+      "decisions": [
+        "Onboarding revamp is the top priority for Q1.",
+        "The advanced analytics pilot will be pushed to March.",
+        "The onboarding launch will be a silent update, with no marketing ads or blog posts.",
+        "Core onboarding steps are prioritized over extra features.",
+        "A lightweight usability test for the new onboarding prototype will be conducted.",
+        "An internal onboarding demo will be held on Thursday, showing the core flow with integrated backend and mostly done UI.",
+        "The onboarding flow should be built using modular pieces to avoid future rewrites.",
+        "Multi-language support for onboarding is not planned for the initial Q1 launch."
+      ],
+      "participants": [
+        "Jeffy",
+        "Mira",
+        "Arun",
+        "Leah",
+        "Daniel"
+      ],
+      "planned_tasks": [
+        {
+          "title": "Update Q1 roadmap",
+          "description": "Update the Q1 roadmap to reflect onboarding as top priority and push the advanced analytics pilot to March.",
+          "owner": "Mira",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mira, please update the roadmap to reflect that, and push analytics pilot to March?",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Assess current state",
+            "Plan changes",
+            "Implement updates",
+            "Test and verify"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Define 3 onboarding success KPIs",
+          "description": "Define 3 concrete Key Performance Indicators to measure onboarding success within 30 days.",
+          "owner": "Mira",
+          "deadline": "Tomorrow morning",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mira, I want 3 concrete KPIs to measure onboarding success within 30 days. Can you do that by tomorrow morning?",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Plan lightweight usability test for new onboarding",
+          "description": "Plan a quick, lightweight usability test (max two sessions) for the new onboarding prototype once it's ready.",
+          "owner": "Leah",
+          "deadline": "After new onboarding prototype is ready",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Leah: Should we plan a quick usability test after the new onboarding prototype is ready? Nothing big, like two sessions max? Jeffy: Sounds good. Keep it lightweight.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Ensure consistent messaging for silent onboarding launch",
+          "description": "Ensure internal and external messaging is consistent with the decision for a silent onboarding update (no ads or blog posts).",
+          "owner": "Leah",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Leah: I'll keep messaging consistent.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Deliver design assets to engineering",
+          "description": "Deliver the necessary design assets to Arun for engineering work.",
+          "owner": "Leah",
+          "deadline": "Tonight by 8 PM",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Leah: You'll have them by 8 PM.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Plan A/B test for deferred permissions",
+          "description": "Plan and implement an A/B test to evaluate deferring some permissions on the second onboarding step post-launch.",
+          "owner": "Mira",
+          "deadline": "Post-launch",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Yes, put that in as an A/B test post-launch.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Design and add explanatory microcopy/tooltips",
+          "description": "Design and add short explanatory tooltips for the permission screen to reduce user confusion.",
+          "owner": "Daniel",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Sounds good, Daniel. Can you work on that? Daniel: Will do.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Record usability test sessions",
+          "description": "Ensure all usability test sessions are recorded for detailed analysis.",
+          "owner": "Leah",
+          "deadline": "Before/During usability tests",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Jeffy: Excellent. Make sure to record sessions for analysis.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Draft internal messaging regarding analytics pilot delay",
+          "description": "Draft messaging to internal teams (e.g., marketing) to manage expectations about the analytics pilot being pushed to March.",
+          "owner": "Leah",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Leah, please help draft messaging to internal teams.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Outline the main sections",
+            "Draft initial content",
+            "Review and revise",
+            "Share for feedback"
+          ],
+          "estimated_effort": "Medium"
+        },
+        {
+          "title": "Fix data pipeline bugs for analytics",
+          "description": "Use the extra time from the analytics pilot delay to identify and fix data pipeline bugs to improve data accuracy.",
+          "owner": "Arun",
+          "deadline": "Before analytics pilot in March",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Absolutely. Use the extra time to fix data pipeline bugs.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Prepare roadmap update deck",
+          "description": "Prepare a concise deck outlining the key changes and dates in the updated Q1 roadmap.",
+          "owner": "Mira",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Deck with key changes and dates. Keep it tight.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Assess current state",
+            "Plan changes",
+            "Implement updates",
+            "Test and verify"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Prepare for Q&A at Thursday onboarding demo",
+          "description": "Prepare to field questions from the team during the internal onboarding demo on Thursday.",
+          "owner": "Mira",
+          "deadline": "Before Thursday internal demo",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Yes, Mira, you should be prepped.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Prepare agenda/materials",
+            "Schedule with participants",
+            "Conduct the session",
+            "Document outcomes"
+          ],
+          "estimated_effort": "Medium"
+        },
+        {
+          "title": "Prepare user feedback snippets for onboarding demo",
+          "description": "Prepare quick user feedback snippets to present during the internal onboarding demo.",
+          "owner": "Leah",
+          "deadline": "Before Thursday internal demo",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Leah: I can prepare quick user feedback snippets for the demo.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Prepare agenda/materials",
+            "Schedule with participants",
+            "Conduct the session",
+            "Document outcomes"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Invite customer success to onboarding demo",
+          "description": "Invite the customer success team to the internal onboarding demo on Thursday.",
+          "owner": "Leah",
+          "deadline": "Before Thursday internal demo",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Leah: Should we invite customer success team? Jeffy: Yeah, good idea.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Prepare agenda/materials",
+            "Schedule with participants",
+            "Conduct the session",
+            "Document outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Conduct smoke tests for onboarding",
+          "description": "QA team to conduct smoke tests for the onboarding flow.",
+          "owner": "Arun",
+          "deadline": "By Wednesday",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Arun: QA is prepping test cases for onboarding. Will do smoke tests by Wednesday.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Finish final design icons",
+          "description": "Finish the remaining final design icons for onboarding, which are currently a blocker.",
+          "owner": "Daniel",
+          "deadline": "Today",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Daniel: Yep, finishing final icons today.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Review final design icons",
+          "description": "Review the final design icons completed by Daniel.",
+          "owner": "Leah",
+          "deadline": "Tomorrow morning",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Leah: I'll review those tomorrow morning.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Add qualitative feedback to post-onboarding survey",
+          "description": "Add a qualitative feedback question, such as an 'ease of use' rating, to the post-onboarding survey.",
+          "owner": "Leah",
+          "deadline": "Before post-onboarding survey launch",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Leah: We'll add that to post-onboarding survey.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Expedite hiring of design intern",
+          "description": "Expedite the process for hiring a design intern to address the current design resource crunch, as HR has candidates lined up.",
+          "owner": "Mira, Leah",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 0.63,
+          "evidence": "Jeffy: Cool, please speed that up.",
+          "owner_valid": false,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Build onboarding as modular pieces",
+          "description": "Ensure the onboarding flow is built using modular components to facilitate future iterations and avoid rewrites.",
+          "owner": "Arun",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Worth it. Build modular to avoid rewrites later.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Design clearer error messages",
+          "description": "Design clearer and more helpful error messages for the onboarding flow based on user feedback.",
+          "owner": "Daniel",
+          "deadline": "Next week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Daniel: Will work on error message designs next week.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Send weekly onboarding progress updates to Marketing",
+          "description": "Send weekly email updates to the marketing team regarding the onboarding progress.",
+          "owner": "Mira",
+          "deadline": "Weekly, ongoing",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Jeffy: Weekly email updates to them.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Assess current state",
+            "Plan changes",
+            "Implement updates",
+            "Test and verify"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Coordinate legal compliance check for analytics data retention",
+          "description": "Coordinate with the legal team for a compliance check on the analytics data retention policy.",
+          "owner": "Mira",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mira: I\u2019ll coordinate.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Update onboarding help pages",
+          "description": "Update the relevant help pages for the new onboarding experience.",
+          "owner": "Leah",
+          "deadline": "This week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Leah: Yes, updating onboarding help pages this week.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Assess current state",
+            "Plan changes",
+            "Implement updates",
+            "Test and verify"
+          ],
+          "estimated_effort": "Small"
+        }
+      ]
+    }
+  },
+  "meeting_02": {
+    "metadata": {
+      "generated_at": "2025-11-27T20:26:53.472184",
+      "meeting_file": "meeting_02.txt",
+      "total_tasks": 14
+    },
+    "analysis_results": {
+      "tasks": [
+        {
+          "title": "Integrate dynamic obstacle model for robot navigation",
+          "description": "Raj needs to work on integrating a dynamic obstacle model or a more adaptive approach to improve robot navigation, specifically addressing struggles with dynamic obstacles in real-world environments.",
+          "owner": "Raj",
+          "deadline": "this week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Nina: Okay, sounds like a plan. Can you prioritize that for this sprint? Raj: Yeah, I can work on integrating that this week, although I\u2019m a bit swamped with other tasks, but I\u2019ll try to make it happen."
+        },
+        {
+          "title": "Collaborate on a better LIDAR filtering approach",
+          "description": "Raj will collaborate with Maya to find a better filtering approach for the new LIDAR sensor, which is showing sporadic spikes and noise issues, to improve obstacle detection.",
+          "owner": "Raj",
+          "deadline": "Thursday or Friday",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Nina: Raj, could you help Maya with that? Maybe collaborate on a better filtering approach? Raj: Yeah, that makes sense. I\u2019ll set aside some time to look into it. Probably Thursday or Friday."
+        },
+        {
+          "title": "Prioritize testing and tuning drift correction algorithm",
+          "description": "Liam needs to prioritize testing and tuning the new drift correction algorithm he is developing, aiming to have a prototype ready soon.",
+          "owner": "Liam",
+          "deadline": "by next week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Nina: Okay, Liam, prioritize testing and tuning that. Can you have a prototype by next week? Liam: I\u2019ll do my best."
+        },
+        {
+          "title": "Draft methodology and experiments sections for the paper",
+          "description": "Raj and Maya will be responsible for drafting the methodology and experiments sections of the upcoming conference paper.",
+          "owner": "Raj, Maya",
+          "deadline": "TBD (by November 20th implicitly for final draft)",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Nina: Raj, you and Maya can draft methodology and experiments sections? Raj: Yeah, sounds good. Maya: Sure, happy to."
+        },
+        {
+          "title": "Draft results and discussion sections for the paper",
+          "description": "Liam will be responsible for drafting the results and discussion sections of the upcoming conference paper.",
+          "owner": "Liam",
+          "deadline": "TBD (by November 20th implicitly for final draft)",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Nina: Liam, can you work on results and discussion? Liam: Will do."
+        },
+        {
+          "title": "Draft intro and abstract sections for the paper",
+          "description": "Nina will be responsible for drafting the introduction and abstract sections of the upcoming conference paper.",
+          "owner": "Nina",
+          "deadline": "TBD (by November 20th implicitly for final draft)",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Nina: And I\u2019ll handle intro and abstract."
+        },
+        {
+          "title": "Attend paper writing session",
+          "description": "All participants are expected to attend a scheduled writing session to work on the conference paper.",
+          "owner": "Raj, Liam, Maya, Nina",
+          "deadline": "next Tuesday at 3 PM",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Maya: Should we schedule a writing session next week? Nina: Good idea. How about Tuesday at 3 PM? Raj: Works for me. Liam: Same here. Maya: Okay, Tuesday it is."
+        },
+        {
+          "title": "Check with admin for new LIDAR sensor order",
+          "description": "Nina will check with administration to fast-track an order for an additional LIDAR sensor due to current heavy use and repair needs.",
+          "owner": "Nina",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Raj: We might need an extra LIDAR sensor. ... Nina: Let me check with admin. Hopefully, they can fast-track a new order."
+        },
+        {
+          "title": "Help test patches for simulation environment update",
+          "description": "Liam will help test patches when they become available to fix bugs in the updated simulation environment, particularly issues with the physics engine not syncing correctly.",
+          "owner": "Liam",
+          "deadline": "TBD (when patches are released)",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Maya: Also, the simulation environment crashed twice last week. We need to update it. Liam: I can help test patches when they come out. Nina: Thanks, Liam. That\u2019ll be a big help."
+        },
+        {
+          "title": "Plan and conduct a power audit for the robot",
+          "description": "The team needs to plan and conduct an audit of the robot's power consumption, as battery life is low and some modules draw more current than expected.",
+          "owner": "TBD",
+          "deadline": "next week (plan for)",
+          "priority": "High",
+          "confidence": 0.8,
+          "evidence": "Raj: Also, the robot\u2019s battery life is low. Should we look into replacements or optimize power consumption? Liam: Yeah, I think a power audit is due. Nina: Let\u2019s plan for that next week."
+        },
+        {
+          "title": "Monitor risks related to project progress",
+          "description": "Raj and Maya should continue to monitor the identified risks: underestimating time needed for dynamic obstacle integration (Raj) and potential delays in hardware delivery (Maya).",
+          "owner": "Raj, Maya",
+          "deadline": "Ongoing",
+          "priority": "Medium",
+          "confidence": 0.8,
+          "evidence": "Raj: The main risk is underestimating the time needed for dynamic obstacle integration. Maya: Also, potential delays in hardware delivery could hold us back. Nina: Okay, keep monitoring those."
+        },
+        {
+          "title": "Audit the data logging system",
+          "description": "Raj will conduct an audit of the data logging system to investigate inconsistencies and lost data packets during wireless transmission. Liam will assist with this audit.",
+          "owner": "Raj, Liam",
+          "deadline": "by Friday",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Raj: One more thing \u2014 I noticed our data logging system is inconsistent. ... Nina: Let\u2019s have an audit of the logging system by Friday. Raj: Will do. Nina: ...Liam to test drift correction and assist with logging audit..."
+        },
+        {
+          "title": "Address LIDAR sensor noise issues",
+          "description": "Maya needs to continue addressing the sporadic spikes and noise issues with the new LIDAR sensor, potentially exploring more advanced filtering algorithms. Raj will collaborate on this.",
+          "owner": "Maya",
+          "deadline": "TBD (ongoing effort)",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Maya: Oh, speaking of sensors, the new LIDAR we got last month? It\u2019s showing some noise issues. ... Maya: Yeah, I started with a basic median filter, but it might need something more advanced... Nina: Raj, could you help Maya with that? ... Nina: Maya to handle sensor noise..."
+        },
+        {
+          "title": "Conduct further experiments to improve robot success rate",
+          "description": "Maya will continue running experiments in the cluttered environment scenario with the goal of increasing the robot's success rate to at least 80% to be competitive for the conference.",
+          "owner": "Maya",
+          "deadline": "by November 20th (for final results)",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Maya: Speaking of experiments, I ran the latest robot in the cluttered environment scenario last week. The success rate was about 65%... Liam: But we still need to get to at least 80% to be competitive for the conference. Nina: Maya to... run experiments"
+        }
+      ],
+      "meeting_summary": "The team reviewed progress on robot navigation, sensor issues, and paper writing for an upcoming conference. Key decisions included prioritizing robot stability for a December demo, finalizing paper experiments by November 20th, and scheduling a collaborative writing session. Several tasks were assigned to address technical challenges, resource needs, and system audits.",
+      "decisions": [
+        "Experiments and results for the conference paper need to be finalized by November 20th.",
+        "A paper writing session is scheduled for next Tuesday at 3 PM.",
+        "Demo stability for the robot is the top priority for development leading up to the December robotics conference.",
+        "A power audit for the robot will be planned for next week."
+      ],
+      "participants": [
+        "Nina",
+        "Raj",
+        "Maya",
+        "Liam"
+      ],
+      "planned_tasks": [
+        {
+          "title": "Integrate dynamic obstacle model for robot navigation",
+          "description": "Raj needs to work on integrating a dynamic obstacle model or a more adaptive approach to improve robot navigation, specifically addressing struggles with dynamic obstacles in real-world environments.",
+          "owner": "Raj",
+          "deadline": "this week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Nina: Okay, sounds like a plan. Can you prioritize that for this sprint? Raj: Yeah, I can work on integrating that this week, although I\u2019m a bit swamped with other tasks, but I\u2019ll try to make it happen.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Collaborate on a better LIDAR filtering approach",
+          "description": "Raj will collaborate with Maya to find a better filtering approach for the new LIDAR sensor, which is showing sporadic spikes and noise issues, to improve obstacle detection.",
+          "owner": "Raj",
+          "deadline": "Thursday or Friday",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Nina: Raj, could you help Maya with that? Maybe collaborate on a better filtering approach? Raj: Yeah, that makes sense. I\u2019ll set aside some time to look into it. Probably Thursday or Friday.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Prioritize testing and tuning drift correction algorithm",
+          "description": "Liam needs to prioritize testing and tuning the new drift correction algorithm he is developing, aiming to have a prototype ready soon.",
+          "owner": "Liam",
+          "deadline": "by next week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Nina: Okay, Liam, prioritize testing and tuning that. Can you have a prototype by next week? Liam: I\u2019ll do my best.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Draft methodology and experiments sections for the paper",
+          "description": "Raj and Maya will be responsible for drafting the methodology and experiments sections of the upcoming conference paper.",
+          "owner": "Raj, Maya",
+          "deadline": "TBD (by November 20th implicitly for final draft)",
+          "priority": "High",
+          "confidence": 0.63,
+          "evidence": "Nina: Raj, you and Maya can draft methodology and experiments sections? Raj: Yeah, sounds good. Maya: Sure, happy to.",
+          "owner_valid": false,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Outline the main sections",
+            "Draft initial content",
+            "Review and revise",
+            "Share for feedback"
+          ],
+          "estimated_effort": "Medium"
+        },
+        {
+          "title": "Draft results and discussion sections for the paper",
+          "description": "Liam will be responsible for drafting the results and discussion sections of the upcoming conference paper.",
+          "owner": "Liam",
+          "deadline": "TBD (by November 20th implicitly for final draft)",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Nina: Liam, can you work on results and discussion? Liam: Will do.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Outline the main sections",
+            "Draft initial content",
+            "Review and revise",
+            "Share for feedback"
+          ],
+          "estimated_effort": "Medium"
+        },
+        {
+          "title": "Draft intro and abstract sections for the paper",
+          "description": "Nina will be responsible for drafting the introduction and abstract sections of the upcoming conference paper.",
+          "owner": "Nina",
+          "deadline": "TBD (by November 20th implicitly for final draft)",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Nina: And I\u2019ll handle intro and abstract.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Outline the main sections",
+            "Draft initial content",
+            "Review and revise",
+            "Share for feedback"
+          ],
+          "estimated_effort": "Medium"
+        },
+        {
+          "title": "Attend paper writing session",
+          "description": "All participants are expected to attend a scheduled writing session to work on the conference paper.",
+          "owner": "Raj, Liam, Maya, Nina",
+          "deadline": "next Tuesday at 3 PM",
+          "priority": "Medium",
+          "confidence": 0.7,
+          "evidence": "Maya: Should we schedule a writing session next week? Nina: Good idea. How about Tuesday at 3 PM? Raj: Works for me. Liam: Same here. Maya: Okay, Tuesday it is.",
+          "owner_valid": false,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Check with admin for new LIDAR sensor order",
+          "description": "Nina will check with administration to fast-track an order for an additional LIDAR sensor due to current heavy use and repair needs.",
+          "owner": "Nina",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Raj: We might need an extra LIDAR sensor. ... Nina: Let me check with admin. Hopefully, they can fast-track a new order.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Help test patches for simulation environment update",
+          "description": "Liam will help test patches when they become available to fix bugs in the updated simulation environment, particularly issues with the physics engine not syncing correctly.",
+          "owner": "Liam",
+          "deadline": "TBD (when patches are released)",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Maya: Also, the simulation environment crashed twice last week. We need to update it. Liam: I can help test patches when they come out. Nina: Thanks, Liam. That\u2019ll be a big help.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Assess current state",
+            "Plan changes",
+            "Implement updates",
+            "Test and verify"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Plan and conduct a power audit for the robot",
+          "description": "The team needs to plan and conduct an audit of the robot's power consumption, as battery life is low and some modules draw more current than expected.",
+          "owner": "TBD",
+          "deadline": "next week (plan for)",
+          "priority": "High",
+          "confidence": 0.8,
+          "evidence": "Raj: Also, the robot\u2019s battery life is low. Should we look into replacements or optimize power consumption? Liam: Yeah, I think a power audit is due. Nina: Let\u2019s plan for that next week.",
+          "owner_valid": false,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Monitor risks related to project progress",
+          "description": "Raj and Maya should continue to monitor the identified risks: underestimating time needed for dynamic obstacle integration (Raj) and potential delays in hardware delivery (Maya).",
+          "owner": "Raj, Maya",
+          "deadline": "Ongoing",
+          "priority": "Medium",
+          "confidence": 0.5599999999999999,
+          "evidence": "Raj: The main risk is underestimating the time needed for dynamic obstacle integration. Maya: Also, potential delays in hardware delivery could hold us back. Nina: Okay, keep monitoring those.",
+          "owner_valid": false,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Audit the data logging system",
+          "description": "Raj will conduct an audit of the data logging system to investigate inconsistencies and lost data packets during wireless transmission. Liam will assist with this audit.",
+          "owner": "Raj, Liam",
+          "deadline": "by Friday",
+          "priority": "High",
+          "confidence": 0.63,
+          "evidence": "Raj: One more thing \u2014 I noticed our data logging system is inconsistent. ... Nina: Let\u2019s have an audit of the logging system by Friday. Raj: Will do. Nina: ...Liam to test drift correction and assist with logging audit...",
+          "owner_valid": false,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Address LIDAR sensor noise issues",
+          "description": "Maya needs to continue addressing the sporadic spikes and noise issues with the new LIDAR sensor, potentially exploring more advanced filtering algorithms. Raj will collaborate on this.",
+          "owner": "Maya",
+          "deadline": "TBD (ongoing effort)",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Maya: Oh, speaking of sensors, the new LIDAR we got last month? It\u2019s showing some noise issues. ... Maya: Yeah, I started with a basic median filter, but it might need something more advanced... Nina: Raj, could you help Maya with that? ... Nina: Maya to handle sensor noise...",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Conduct further experiments to improve robot success rate",
+          "description": "Maya will continue running experiments in the cluttered environment scenario with the goal of increasing the robot's success rate to at least 80% to be competitive for the conference.",
+          "owner": "Maya",
+          "deadline": "by November 20th (for final results)",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Maya: Speaking of experiments, I ran the latest robot in the cluttered environment scenario last week. The success rate was about 65%... Liam: But we still need to get to at least 80% to be competitive for the conference. Nina: Maya to... run experiments",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        }
+      ]
+    }
+  },
+  "meeting_03": {
+    "metadata": {
+      "generated_at": "2025-11-27T20:27:19.700652",
+      "meeting_file": "meeting_03.txt",
+      "total_tasks": 17
+    },
+    "analysis_results": {
+      "tasks": [
+        {
+          "title": "Stabilize sensor array",
+          "description": "Mark needs to ensure the new sensor array, currently 80% assembled, is stabilized to address calibration issues with temperature sensors.",
+          "owner": "Mark",
+          "deadline": "EOD this week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Elena: Okay, can you have it stabilized by end of the week? Mark: I\u2019m pushing for it, but might need extra help."
+        },
+        {
+          "title": "Assist with sensor array stabilization",
+          "description": "Jin will spare time on Thursday to assist Mark with the sensor array stabilization efforts.",
+          "owner": "Jin",
+          "deadline": "EOD this week (starting Thursday)",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Jin: I can spare some time Thursday to assist."
+        },
+        {
+          "title": "Implement power smoothing circuit",
+          "description": "Sofia will implement a power smoothing circuit to mitigate intermittent resets on the main control board, which are suspected to be caused by power spikes.",
+          "owner": "Sofia",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Sofia: Implementing a power smoothing circuit, hoping that helps."
+        },
+        {
+          "title": "Coordinate to verify power supply stability",
+          "description": "Mark will coordinate with Jin to verify the stability of the power supply, likely related to the power spike issue causing firmware resets.",
+          "owner": "Mark",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mark: I\u2019ll coordinate with Jin to verify power supply stability."
+        },
+        {
+          "title": "Analyze battery runtime discrepancy",
+          "description": "Mark needs to analyze why the actual battery runtime is 15% less than specification.",
+          "owner": "Mark",
+          "deadline": "This week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Elena: Prioritize analyzing that this week. Mark: Will do."
+        },
+        {
+          "title": "Work on environmental noise mitigation in firmware",
+          "description": "Jin will work on mitigating environmental noise within the firmware, in preparation for the field test next month.",
+          "owner": "Jin",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Jin: I\u2019ll work on environmental noise mitigation in the firmware."
+        },
+        {
+          "title": "Design adjustable mechanical mounts",
+          "description": "Sofia's team is designing adjustable mounts to compensate for alignment issues encountered during assembly, which could cause sensor misreads.",
+          "owner": "Sofia",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Sofia: We\u2019re designing adjustable mounts to compensate."
+        },
+        {
+          "title": "Improve sensor fusion algorithms",
+          "description": "Mark is collaborating with Jin to improve sensor fusion algorithms, specifically focusing on handling noisy inputs.",
+          "owner": "Mark",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Mark: On software, I\u2019m collaborating with Jin on improving sensor fusion algorithms to handle noisy inputs."
+        },
+        {
+          "title": "Tweak Kalman filter for sensor fusion",
+          "description": "Jin is working on a specific tweak to the Kalman filter as part of the effort to improve sensor fusion algorithms.",
+          "owner": "Jin",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Jin: Yeah, working on a Kalman filter tweak."
+        },
+        {
+          "title": "Update integration guide documentation",
+          "description": "Sofia's team is responsible for updating the integration guide documentation.",
+          "owner": "Sofia",
+          "deadline": "This week",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Sofia: For documentation, we\u2019re updating the integration guide this week."
+        },
+        {
+          "title": "Chase vendor for custom cable delivery",
+          "description": "Mark needs to continue chasing the vendor regarding the delay in custom cable delivery, which has moved from Monday to Thursday.",
+          "owner": "Mark",
+          "deadline": "Ongoing until Thursday",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mark: One blocker is the delay in custom cables \u2014 vendor moved delivery from Monday to Thursday. Elena: Keep chasing."
+        },
+        {
+          "title": "Provide support for power analysis if needed",
+          "description": "Mark has offered to pitch in and support Jin with power analysis if Jin requires assistance.",
+          "owner": "Mark",
+          "deadline": "TBD",
+          "priority": "Low",
+          "confidence": 1.0,
+          "evidence": "Elena: Alright, if needed, Mark can support."
+        },
+        {
+          "title": "Prep demo slides and data",
+          "description": "The team needs to prepare slides and data for the upcoming demo, focusing on reliable sensors, battery endurance, stable firmware, and the new mounting design.",
+          "owner": "TBD",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Elena: Let\u2019s prep slides and data for that."
+        },
+        {
+          "title": "Debug intermittent firmware crashes",
+          "description": "Mark's team needs to debug the intermittent firmware crashes that have been reported during testing.",
+          "owner": "Mark",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mark: On testing, some intermittent firmware crashes were reported. We need to debug."
+        },
+        {
+          "title": "Set up detailed logs for firmware debugging",
+          "description": "Jin will set up detailed logs to aid in debugging the intermittent firmware crashes.",
+          "owner": "Jin",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jin: I\u2019ll set up detailed logs for that."
+        },
+        {
+          "title": "Track integration issues",
+          "description": "Sofia will track integration issues on an ongoing basis.",
+          "owner": "Sofia",
+          "deadline": "Next week (ongoing)",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Sofia: I\u2019ll track integration issues and help with testing."
+        },
+        {
+          "title": "Help with lab and outdoor testing",
+          "description": "Sofia will assist with the planned lab tests (next two weeks) and outdoor trials (following week) for all components.",
+          "owner": "Sofia",
+          "deadline": "Next two weeks (lab tests), then following week (outdoor trials)",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Sofia: I\u2019ll track integration issues and help with testing."
+        }
+      ],
+      "meeting_summary": "The team discussed the hardware prototype's progress, focusing on stabilizing the sensor array, investigating firmware resets and battery runtime discrepancies, and preparing for an upcoming field test. Key actions include addressing power issues, refining sensor fusion algorithms, and updating documentation, while managing custom cable delays as a critical risk.",
+      "decisions": [
+        "Jin will assist Mark with sensor array stabilization starting Thursday.",
+        "A power smoothing circuit will be implemented by Sofia to mitigate intermittent firmware resets.",
+        "Analysis of the battery runtime discrepancy is prioritized for this week, owned by Mark.",
+        "Jin will work on environmental noise mitigation in the firmware.",
+        "Sofia's team will design adjustable mechanical mounts to address assembly alignment issues.",
+        "The integration guide documentation will be updated this week by Sofia's team.",
+        "Elena directed Mark to keep chasing the vendor for custom cable delivery.",
+        "Mark will provide support to Jin for power analysis if needed.",
+        "The team will prep slides and data for the demo, focusing on reliable sensors, battery endurance, stable firmware, and new mounting design.",
+        "Jin will set up detailed logs to assist with debugging intermittent firmware crashes."
+      ],
+      "participants": [
+        "Elena",
+        "Mark",
+        "Jin",
+        "Sofia"
+      ],
+      "planned_tasks": [
+        {
+          "title": "Stabilize sensor array",
+          "description": "Mark needs to ensure the new sensor array, currently 80% assembled, is stabilized to address calibration issues with temperature sensors.",
+          "owner": "Mark",
+          "deadline": "EOD this week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Elena: Okay, can you have it stabilized by end of the week? Mark: I\u2019m pushing for it, but might need extra help.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Assist with sensor array stabilization",
+          "description": "Jin will spare time on Thursday to assist Mark with the sensor array stabilization efforts.",
+          "owner": "Jin",
+          "deadline": "EOD this week (starting Thursday)",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Jin: I can spare some time Thursday to assist.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Implement power smoothing circuit",
+          "description": "Sofia will implement a power smoothing circuit to mitigate intermittent resets on the main control board, which are suspected to be caused by power spikes.",
+          "owner": "Sofia",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Sofia: Implementing a power smoothing circuit, hoping that helps.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Assess current state",
+            "Plan changes",
+            "Implement updates",
+            "Test and verify"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Coordinate to verify power supply stability",
+          "description": "Mark will coordinate with Jin to verify the stability of the power supply, likely related to the power spike issue causing firmware resets.",
+          "owner": "Mark",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mark: I\u2019ll coordinate with Jin to verify power supply stability.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Medium"
+        },
+        {
+          "title": "Analyze battery runtime discrepancy",
+          "description": "Mark needs to analyze why the actual battery runtime is 15% less than specification.",
+          "owner": "Mark",
+          "deadline": "This week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Elena: Prioritize analyzing that this week. Mark: Will do.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Gather relevant data/sources",
+            "Analyze patterns/trends",
+            "Summarize key findings",
+            "Prepare recommendations"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Work on environmental noise mitigation in firmware",
+          "description": "Jin will work on mitigating environmental noise within the firmware, in preparation for the field test next month.",
+          "owner": "Jin",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Jin: I\u2019ll work on environmental noise mitigation in the firmware.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Design adjustable mechanical mounts",
+          "description": "Sofia's team is designing adjustable mounts to compensate for alignment issues encountered during assembly, which could cause sensor misreads.",
+          "owner": "Sofia",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Sofia: We\u2019re designing adjustable mounts to compensate.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Improve sensor fusion algorithms",
+          "description": "Mark is collaborating with Jin to improve sensor fusion algorithms, specifically focusing on handling noisy inputs.",
+          "owner": "Mark",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Mark: On software, I\u2019m collaborating with Jin on improving sensor fusion algorithms to handle noisy inputs.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Tweak Kalman filter for sensor fusion",
+          "description": "Jin is working on a specific tweak to the Kalman filter as part of the effort to improve sensor fusion algorithms.",
+          "owner": "Jin",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Jin: Yeah, working on a Kalman filter tweak.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Update integration guide documentation",
+          "description": "Sofia's team is responsible for updating the integration guide documentation.",
+          "owner": "Sofia",
+          "deadline": "This week",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Sofia: For documentation, we\u2019re updating the integration guide this week.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Outline the main sections",
+            "Draft initial content",
+            "Review and revise",
+            "Share for feedback"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Chase vendor for custom cable delivery",
+          "description": "Mark needs to continue chasing the vendor regarding the delay in custom cable delivery, which has moved from Monday to Thursday.",
+          "owner": "Mark",
+          "deadline": "Ongoing until Thursday",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mark: One blocker is the delay in custom cables \u2014 vendor moved delivery from Monday to Thursday. Elena: Keep chasing.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Provide support for power analysis if needed",
+          "description": "Mark has offered to pitch in and support Jin with power analysis if Jin requires assistance.",
+          "owner": "Mark",
+          "deadline": "TBD",
+          "priority": "Low",
+          "confidence": 1.0,
+          "evidence": "Elena: Alright, if needed, Mark can support.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Prep demo slides and data",
+          "description": "The team needs to prepare slides and data for the upcoming demo, focusing on reliable sensors, battery endurance, stable firmware, and the new mounting design.",
+          "owner": "TBD",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Elena: Let\u2019s prep slides and data for that.",
+          "owner_valid": false,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Prepare agenda/materials",
+            "Schedule with participants",
+            "Conduct the session",
+            "Document outcomes"
+          ],
+          "estimated_effort": "Medium"
+        },
+        {
+          "title": "Debug intermittent firmware crashes",
+          "description": "Mark's team needs to debug the intermittent firmware crashes that have been reported during testing.",
+          "owner": "Mark",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Mark: On testing, some intermittent firmware crashes were reported. We need to debug.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Set up detailed logs for firmware debugging",
+          "description": "Jin will set up detailed logs to aid in debugging the intermittent firmware crashes.",
+          "owner": "Jin",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Jin: I\u2019ll set up detailed logs for that.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Track integration issues",
+          "description": "Sofia will track integration issues on an ongoing basis.",
+          "owner": "Sofia",
+          "deadline": "Next week (ongoing)",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Sofia: I\u2019ll track integration issues and help with testing.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Help with lab and outdoor testing",
+          "description": "Sofia will assist with the planned lab tests (next two weeks) and outdoor trials (following week) for all components.",
+          "owner": "Sofia",
+          "deadline": "Next two weeks (lab tests), then following week (outdoor trials)",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Sofia: I\u2019ll track integration issues and help with testing.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        }
+      ]
+    }
+  },
+  "meeting_04": {
+    "metadata": {
+      "generated_at": "2025-11-27T20:27:36.406205",
+      "meeting_file": "meeting_04.txt",
+      "total_tasks": 10
+    },
+    "analysis_results": {
+      "tasks": [
+        {
+          "title": "Coordinate manual logging setup",
+          "description": "Coordinate with Derek to set up a simple logging sheet or app for the next couple of weeks to ensure data continuity due to sensor issues.",
+          "owner": "Priya",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Priya: Yeah, we\u2019ve talked about that. I\u2019ll coordinate with Derek to set up a simple logging sheet or app for the next couple of weeks."
+        },
+        {
+          "title": "Lead organization of manual logs",
+          "description": "Take the lead on organizing manual logs and check with the team to make sure everyone is on board with the manual logging process.",
+          "owner": "Derek",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Derek: I\u2019ll take the lead on organizing the manual logs. Should be straightforward. I\u2019ll check with the team to make sure everyone\u2019s on board."
+        },
+        {
+          "title": "Update report with robot improvement metrics",
+          "description": "Update the notes and stats in the report to carefully document the noticeable improvement in the robot's path planning and fewer collisions overall.",
+          "owner": "Priya",
+          "deadline": "this afternoon",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Sam: That\u2019s encouraging. Let\u2019s be sure to document that carefully, especially the improvement metrics. Priya, can you ensure those go into the report? Priya: Absolutely, I\u2019ll update the notes and stats this afternoon."
+        },
+        {
+          "title": "Apply filters to clean noisy battery data",
+          "description": "Apply filters to clean the noisy battery log data to make it easier to pinpoint the cause of unexpected robot shutdowns (hardware or firmware).",
+          "owner": "Derek",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Derek: I\u2019m planning to apply some filters to clean the data and will collaborate with Priya to dig deeper."
+        },
+        {
+          "title": "Collaborate on battery issue investigation",
+          "description": "Sync up and collaborate with Priya to dig deeper into the unexpected robot battery shutdowns after applying filters to clean the data, and keep Sam posted on progress.",
+          "owner": "Derek, Priya",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Derek: I\u2019m planning to apply some filters to clean the data and will collaborate with Priya to dig deeper. Sam: Great teamwork. Derek and Priya, sync up on that and keep me posted."
+        },
+        {
+          "title": "Update experiment wiki with sensor issues",
+          "description": "Update the experiment wiki pages with notes on sensor glitches and missing data to ensure the whole team is aware of these issues.",
+          "owner": "Priya",
+          "deadline": "today",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Sam: Also, please update the experiment wiki pages with notes on sensor glitches and missing data, so the whole team is aware. Priya: I\u2019ll take that on and aim to finish today."
+        },
+        {
+          "title": "Update wiki's data analysis section",
+          "description": "Update the data analysis section of the experiment wiki pages.",
+          "owner": "Derek",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Derek: I\u2019ll handle updating the data analysis section."
+        },
+        {
+          "title": "Circulate paper draft for internal review",
+          "description": "Circulate the first draft of the paper, including methods and results sections, for internal review.",
+          "owner": "Nina",
+          "deadline": "by Friday",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Nina: The first draft of methods and results is mostly done. We\u2019re aiming to circulate it by Friday for internal review."
+        },
+        {
+          "title": "Send calendar invites for paper review session",
+          "description": "Send calendar invites for the paper review session scheduled for Monday afternoon.",
+          "owner": "Nina",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Nina: Yeah, Monday afternoon. I\u2019ll send calendar invites."
+        },
+        {
+          "title": "Add section on experimental limitations to paper",
+          "description": "Add a section to the paper detailing experimental limitations, including transparency on sensor and battery issues, to be upfront with reviewers and readers.",
+          "owner": "Nina",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Priya: Should we add a section about experimental limitations in the paper? Like transparency on sensor and battery issues. Sam: Definitely. It\u2019s important to be upfront about that."
+        }
+      ],
+      "meeting_summary": "The team addressed persistent timing sensor and robot battery issues, deciding to implement manual logging as a temporary solution and to thoroughly investigate battery data. They agreed to focus the upcoming conference demo on obstacle avoidance, utilizing a mix of recorded and simple live demonstrations. Additionally, the first draft of the research paper is due Friday for internal review, and it was decided to include a section on experimental limitations.",
+      "decisions": [
+        "Manual logging will be used as a backup to maintain data continuity due to timing sensor issues.",
+        "The conference demo in December will focus on obstacle avoidance and path optimization, which have stable data.",
+        "The conference demo will consist of a recorded demo of the full run, supplemented with live Q&A, and a short, simple live robot demonstration.",
+        "A section about experimental limitations, covering sensor and battery issues, will be added to the research paper."
+      ],
+      "participants": [
+        "Sam",
+        "Priya",
+        "Derek",
+        "Nina"
+      ],
+      "planned_tasks": [
+        {
+          "title": "Coordinate manual logging setup",
+          "description": "Coordinate with Derek to set up a simple logging sheet or app for the next couple of weeks to ensure data continuity due to sensor issues.",
+          "owner": "Priya",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Priya: Yeah, we\u2019ve talked about that. I\u2019ll coordinate with Derek to set up a simple logging sheet or app for the next couple of weeks.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Medium"
+        },
+        {
+          "title": "Lead organization of manual logs",
+          "description": "Take the lead on organizing manual logs and check with the team to make sure everyone is on board with the manual logging process.",
+          "owner": "Derek",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Derek: I\u2019ll take the lead on organizing the manual logs. Should be straightforward. I\u2019ll check with the team to make sure everyone\u2019s on board.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Update report with robot improvement metrics",
+          "description": "Update the notes and stats in the report to carefully document the noticeable improvement in the robot's path planning and fewer collisions overall.",
+          "owner": "Priya",
+          "deadline": "this afternoon",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Sam: That\u2019s encouraging. Let\u2019s be sure to document that carefully, especially the improvement metrics. Priya, can you ensure those go into the report? Priya: Absolutely, I\u2019ll update the notes and stats this afternoon.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Assess current state",
+            "Plan changes",
+            "Implement updates",
+            "Test and verify"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Apply filters to clean noisy battery data",
+          "description": "Apply filters to clean the noisy battery log data to make it easier to pinpoint the cause of unexpected robot shutdowns (hardware or firmware).",
+          "owner": "Derek",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Derek: I\u2019m planning to apply some filters to clean the data and will collaborate with Priya to dig deeper.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Collaborate on battery issue investigation",
+          "description": "Sync up and collaborate with Priya to dig deeper into the unexpected robot battery shutdowns after applying filters to clean the data, and keep Sam posted on progress.",
+          "owner": "Derek, Priya",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 0.7,
+          "evidence": "Derek: I\u2019m planning to apply some filters to clean the data and will collaborate with Priya to dig deeper. Sam: Great teamwork. Derek and Priya, sync up on that and keep me posted.",
+          "owner_valid": false,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Update experiment wiki with sensor issues",
+          "description": "Update the experiment wiki pages with notes on sensor glitches and missing data to ensure the whole team is aware of these issues.",
+          "owner": "Priya",
+          "deadline": "today",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Sam: Also, please update the experiment wiki pages with notes on sensor glitches and missing data, so the whole team is aware. Priya: I\u2019ll take that on and aim to finish today.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Assess current state",
+            "Plan changes",
+            "Implement updates",
+            "Test and verify"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Update wiki's data analysis section",
+          "description": "Update the data analysis section of the experiment wiki pages.",
+          "owner": "Derek",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Derek: I\u2019ll handle updating the data analysis section.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Assess current state",
+            "Plan changes",
+            "Implement updates",
+            "Test and verify"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Circulate paper draft for internal review",
+          "description": "Circulate the first draft of the paper, including methods and results sections, for internal review.",
+          "owner": "Nina",
+          "deadline": "by Friday",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Nina: The first draft of methods and results is mostly done. We\u2019re aiming to circulate it by Friday for internal review.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Outline the main sections",
+            "Draft initial content",
+            "Review and revise",
+            "Share for feedback"
+          ],
+          "estimated_effort": "Medium"
+        },
+        {
+          "title": "Send calendar invites for paper review session",
+          "description": "Send calendar invites for the paper review session scheduled for Monday afternoon.",
+          "owner": "Nina",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Nina: Yeah, Monday afternoon. I\u2019ll send calendar invites.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Add section on experimental limitations to paper",
+          "description": "Add a section to the paper detailing experimental limitations, including transparency on sensor and battery issues, to be upfront with reviewers and readers.",
+          "owner": "Nina",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Priya: Should we add a section about experimental limitations in the paper? Like transparency on sensor and battery issues. Sam: Definitely. It\u2019s important to be upfront about that.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        }
+      ]
+    }
+  },
+  "meeting_05": {
+    "metadata": {
+      "generated_at": "2025-11-27T20:27:49.391555",
+      "meeting_file": "meeting_05.txt",
+      "total_tasks": 10
+    },
+    "analysis_results": {
+      "tasks": [
+        {
+          "title": "Keep stakeholders updated on launch delays",
+          "description": "Continuously update all relevant stakeholders about the product launch timeline, especially regarding the delays caused by QA and explainer video production.",
+          "owner": "Carlos",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Sophia: Okay, thanks for the honesty. Let\u2019s keep everyone updated, especially stakeholders."
+        },
+        {
+          "title": "Complete final version of explainer video",
+          "description": "Finalize the explainer video after reshoots and client feedback to ensure it is ready for the marketing launch.",
+          "owner": "Tara",
+          "deadline": "next Friday",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Tara: About a week. We should have the final version by next Friday."
+        },
+        {
+          "title": "Communicate launch and marketing shifts to leadership team",
+          "description": "Clearly communicate the updated product launch timeline and corresponding shifts in the marketing plan to the leadership team.",
+          "owner": "Sophia",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Sophia: Yeah, we\u2019ll have to shift accordingly. We need to communicate this clearly to the leadership team."
+        },
+        {
+          "title": "Continue working on influencer/partner pitches",
+          "description": "Proceed with developing and refining pitches for influencers and potential partners to secure early interest and commitments.",
+          "owner": "Aisha",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Aisha: A few big names have shown early interest, but nothing locked in yet. Still working on pitches."
+        },
+        {
+          "title": "Distribute customer support FAQ document",
+          "description": "Share the completed Quick Reference FAQ document with the customer support team to aid in their training for the new platform.",
+          "owner": "Tara",
+          "deadline": "next week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Tara: Speaking of FAQs, the doc is almost done \u2014 will distribute next week."
+        },
+        {
+          "title": "Start publishing social media teaser posts",
+          "description": "Initiate the social media content calendar for December by publishing teaser posts to generate buzz for the upcoming launch.",
+          "owner": "Tara",
+          "deadline": "next week",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Tara: Content calendar is set for December, with teaser posts starting next week."
+        },
+        {
+          "title": "Develop fallback plans for analytics platform bugs/lags",
+          "description": "Create contingency plans, such as manual monitoring and periodic audits, in case the new analytics platform experiences bugs or lags at launch.",
+          "owner": "Carlos",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Sophia: Let\u2019s have fallback plans \u2014 maybe manual monitoring and periodic audits."
+        },
+        {
+          "title": "Monitor ad spend carefully",
+          "description": "Keep a close watch on advertising expenditures, especially for digital ads, to stay within budget limits given potential fluctuations.",
+          "owner": "Tara",
+          "deadline": "Ongoing",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Tara: Budget-wise, we\u2019re still within limits, but need to monitor ad spend carefully, especially with digital ads fluctuating."
+        },
+        {
+          "title": "Adjust marketing messaging to emphasize unique advantages",
+          "description": "Revise the current marketing messaging and positioning to highlight unique product advantages in response to a competitor's recent announcement of a similar feature.",
+          "owner": "Tara",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Sophia: Thanks for the heads-up. Tara, please start adjusting messaging to emphasize our unique advantages."
+        },
+        {
+          "title": "Encourage breaks and monitor team workload to prevent burnout",
+          "description": "Implement measures to encourage team members to take breaks and closely monitor individual workloads to address and prevent team burnout.",
+          "owner": "Sophia",
+          "deadline": "Ongoing",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Sophia: Important point. We need to encourage breaks and monitor workload carefully. Burnout will hurt post-launch support."
+        }
+      ],
+      "meeting_summary": "The team discussed product launch delays due to QA issues and an explainer video holdup, pushing the timeline to mid-December or early January. Key decisions were made regarding updating stakeholders, adjusting marketing strategies due to a competitor, preparing analytics fallback plans, and proactively managing team burnout.",
+      "decisions": [
+        "The product launch timeline is now flexible, potentially shifting to mid-December or early January, due to ongoing QA delays in payment integration and a delayed explainer video.",
+        "Marketing messaging will be adjusted to emphasize unique product advantages in response to a competitor's recent announcement of a similar feature.",
+        "Fallback plans (manual monitoring, periodic audits) will be developed for the analytics platform to mitigate risks of bugs or lags at launch.",
+        "Team workload and breaks will be carefully monitored to prevent burnout, acknowledging its potential impact on post-launch support."
+      ],
+      "participants": [
+        "Sophia",
+        "Carlos",
+        "Aisha",
+        "Tara"
+      ],
+      "planned_tasks": [
+        {
+          "title": "Keep stakeholders updated on launch delays",
+          "description": "Continuously update all relevant stakeholders about the product launch timeline, especially regarding the delays caused by QA and explainer video production.",
+          "owner": "Carlos",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Sophia: Okay, thanks for the honesty. Let\u2019s keep everyone updated, especially stakeholders.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Assess current state",
+            "Plan changes",
+            "Implement updates",
+            "Test and verify"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Complete final version of explainer video",
+          "description": "Finalize the explainer video after reshoots and client feedback to ensure it is ready for the marketing launch.",
+          "owner": "Tara",
+          "deadline": "next Friday",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Tara: About a week. We should have the final version by next Friday.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Communicate launch and marketing shifts to leadership team",
+          "description": "Clearly communicate the updated product launch timeline and corresponding shifts in the marketing plan to the leadership team.",
+          "owner": "Sophia",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Sophia: Yeah, we\u2019ll have to shift accordingly. We need to communicate this clearly to the leadership team.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Continue working on influencer/partner pitches",
+          "description": "Proceed with developing and refining pitches for influencers and potential partners to secure early interest and commitments.",
+          "owner": "Aisha",
+          "deadline": "TBD",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Aisha: A few big names have shown early interest, but nothing locked in yet. Still working on pitches.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Distribute customer support FAQ document",
+          "description": "Share the completed Quick Reference FAQ document with the customer support team to aid in their training for the new platform.",
+          "owner": "Tara",
+          "deadline": "next week",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Tara: Speaking of FAQs, the doc is almost done \u2014 will distribute next week.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Outline the main sections",
+            "Draft initial content",
+            "Review and revise",
+            "Share for feedback"
+          ],
+          "estimated_effort": "Small"
+        },
+        {
+          "title": "Start publishing social media teaser posts",
+          "description": "Initiate the social media content calendar for December by publishing teaser posts to generate buzz for the upcoming launch.",
+          "owner": "Tara",
+          "deadline": "next week",
+          "priority": "Medium",
+          "confidence": 1.0,
+          "evidence": "Tara: Content calendar is set for December, with teaser posts starting next week.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Develop fallback plans for analytics platform bugs/lags",
+          "description": "Create contingency plans, such as manual monitoring and periodic audits, in case the new analytics platform experiences bugs or lags at launch.",
+          "owner": "Carlos",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Sophia: Let\u2019s have fallback plans \u2014 maybe manual monitoring and periodic audits.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Monitor ad spend carefully",
+          "description": "Keep a close watch on advertising expenditures, especially for digital ads, to stay within budget limits given potential fluctuations.",
+          "owner": "Tara",
+          "deadline": "Ongoing",
+          "priority": "Medium",
+          "confidence": 0.9,
+          "evidence": "Tara: Budget-wise, we\u2019re still within limits, but need to monitor ad spend carefully, especially with digital ads fluctuating.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Adjust marketing messaging to emphasize unique advantages",
+          "description": "Revise the current marketing messaging and positioning to highlight unique product advantages in response to a competitor's recent announcement of a similar feature.",
+          "owner": "Tara",
+          "deadline": "TBD",
+          "priority": "High",
+          "confidence": 1.0,
+          "evidence": "Sophia: Thanks for the heads-up. Tara, please start adjusting messaging to emphasize our unique advantages.",
+          "owner_valid": true,
+          "deadline_valid": false,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        },
+        {
+          "title": "Encourage breaks and monitor team workload to prevent burnout",
+          "description": "Implement measures to encourage team members to take breaks and closely monitor individual workloads to address and prevent team burnout.",
+          "owner": "Sophia",
+          "deadline": "Ongoing",
+          "priority": "High",
+          "confidence": 0.9,
+          "evidence": "Sophia: Important point. We need to encourage breaks and monitor workload carefully. Burnout will hurt post-launch support.",
+          "owner_valid": true,
+          "deadline_valid": true,
+          "execution_steps": [
+            "Define detailed requirements",
+            "Execute the core work",
+            "Review quality",
+            "Deliver outcomes"
+          ],
+          "estimated_effort": "Large"
+        }
+      ]
+    }
+  }
+}

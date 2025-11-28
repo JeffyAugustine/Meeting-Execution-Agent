@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-27T20:26:53.472184",
+    "meeting_file": "meeting_02.txt",
+    "total_tasks": 14
+  },
+  "analysis_results": {
+    "tasks": [
+      {
+        "title": "Integrate dynamic obstacle model for robot navigation",
+        "description": "Raj needs to work on integrating a dynamic obstacle model or a more adaptive approach to improve robot navigation, specifically addressing struggles with dynamic obstacles in real-world environments.",
+        "owner": "Raj",
+        "deadline": "this week",
+        "priority": "High",
+        "confidence": 1.0,
+        "evidence": "Nina: Okay, sounds like a plan. Can you prioritize that for this sprint? Raj: Yeah, I can work on integrating that this week, although I\u2019m a bit swamped with other tasks, but I\u2019ll try to make it happen."
+      },
+      {
+        "title": "Collaborate on a better LIDAR filtering approach",
+        "description": "Raj will collaborate with Maya to find a better filtering approach for the new LIDAR sensor, which is showing sporadic spikes and noise issues, to improve obstacle detection.",
+        "owner": "Raj",
+        "deadline": "Thursday or Friday",
+        "priority": "Medium",
+        "confidence": 1.0,
+        "evidence": "Nina: Raj, could you help Maya with that? Maybe collaborate on a better filtering approach? Raj: Yeah, that makes sense. I\u2019ll set aside some time to look into it. Probably Thursday or Friday."
+      },
+      {
+        "title": "Prioritize testing and tuning drift correction algorithm",
+        "description": "Liam needs to prioritize testing and tuning the new drift correction algorithm he is developing, aiming to have a prototype ready soon.",
+        "owner": "Liam",
+        "deadline": "by next week",
+        "priority": "High",
+        "confidence": 1.0,
+        "evidence": "Nina: Okay, Liam, prioritize testing and tuning that. Can you have a prototype by next week? Liam: I\u2019ll do my best."
+      },
+      {
+        "title": "Draft methodology and experiments sections for the paper",
+        "description": "Raj and Maya will be responsible for drafting the methodology and experiments sections of the upcoming conference paper.",
+        "owner": "Raj, Maya",
+        "deadline": "TBD (by November 20th implicitly for final draft)",
+        "priority": "High",
+        "confidence": 0.9,
+        "evidence": "Nina: Raj, you and Maya can draft methodology and experiments sections? Raj: Yeah, sounds good. Maya: Sure, happy to."
+      },
+      {
+        "title": "Draft results and discussion sections for the paper",
+        "description": "Liam will be responsible for drafting the results and discussion sections of the upcoming conference paper.",
+        "owner": "Liam",
+        "deadline": "TBD (by November 20th implicitly for final draft)",
+        "priority": "High",
+        "confidence": 0.9,
+        "evidence": "Nina: Liam, can you work on results and discussion? Liam: Will do."
+      },
+      {
+        "title": "Draft intro and abstract sections for the paper",
+        "description": "Nina will be responsible for drafting the introduction and abstract sections of the upcoming conference paper.",
+        "owner": "Nina",
+        "deadline": "TBD (by November 20th implicitly for final draft)",
+        "priority": "High",
+        "confidence": 0.9,
+        "evidence": "Nina: And I\u2019ll handle intro and abstract."
+      },
+      {
+        "title": "Attend paper writing session",
+        "description": "All participants are expected to attend a scheduled writing session to work on the conference paper.",
+        "owner": "Raj, Liam, Maya, Nina",
+        "deadline": "next Tuesday at 3 PM",
+        "priority": "Medium",
+        "confidence": 1.0,
+        "evidence": "Maya: Should we schedule a writing session next week? Nina: Good idea. How about Tuesday at 3 PM? Raj: Works for me. Liam: Same here. Maya: Okay, Tuesday it is."
+      },
+      {
+        "title": "Check with admin for new LIDAR sensor order",
+        "description": "Nina will check with administration to fast-track an order for an additional LIDAR sensor due to current heavy use and repair needs.",
+        "owner": "Nina",
+        "deadline": "TBD",
+        "priority": "Medium",
+        "confidence": 0.9,
+        "evidence": "Raj: We might need an extra LIDAR sensor. ... Nina: Let me check with admin. Hopefully, they can fast-track a new order."
+      },
+      {
+        "title": "Help test patches for simulation environment update",
+        "description": "Liam will help test patches when they become available to fix bugs in the updated simulation environment, particularly issues with the physics engine not syncing correctly.",
+        "owner": "Liam",
+        "deadline": "TBD (when patches are released)",
+        "priority": "Medium",
+        "confidence": 0.9,
+        "evidence": "Maya: Also, the simulation environment crashed twice last week. We need to update it. Liam: I can help test patches when they come out. Nina: Thanks, Liam. That\u2019ll be a big help."
+      },
+      {
+        "title": "Plan and conduct a power audit for the robot",
+        "description": "The team needs to plan and conduct an audit of the robot's power consumption, as battery life is low and some modules draw more current than expected.",
+        "owner": "TBD",
+        "deadline": "next week (plan for)",
+        "priority": "High",
+        "confidence": 0.8,
+        "evidence": "Raj: Also, the robot\u2019s battery life is low. Should we look into replacements or optimize power consumption? Liam: Yeah, I think a power audit is due. Nina: Let\u2019s plan for that next week."
+      },
+      {
+        "title": "Monitor risks related to project progress",
+        "description": "Raj and Maya should continue to monitor the identified risks: underestimating time needed for dynamic obstacle integration (Raj) and potential delays in hardware delivery (Maya).",
+        "owner": "Raj, Maya",
+        "deadline": "Ongoing",
+        "priority": "Medium",
+        "confidence": 0.8,
+        "evidence": "Raj: The main risk is underestimating the time needed for dynamic obstacle integration. Maya: Also, potential delays in hardware delivery could hold us back. Nina: Okay, keep monitoring those."
+      },
+      {
+        "title": "Audit the data logging system",
+        "description": "Raj will conduct an audit of the data logging system to investigate inconsistencies and lost data packets during wireless transmission. Liam will assist with this audit.",
+        "owner": "Raj, Liam",
+        "deadline": "by Friday",
+        "priority": "High",
+        "confidence": 0.9,
+        "evidence": "Raj: One more thing \u2014 I noticed our data logging system is inconsistent. ... Nina: Let\u2019s have an audit of the logging system by Friday. Raj: Will do. Nina: ...Liam to test drift correction and assist with logging audit..."
+      },
+      {
+        "title": "Address LIDAR sensor noise issues",
+        "description": "Maya needs to continue addressing the sporadic spikes and noise issues with the new LIDAR sensor, potentially exploring more advanced filtering algorithms. Raj will collaborate on this.",
+        "owner": "Maya",
+        "deadline": "TBD (ongoing effort)",
+        "priority": "High",
+        "confidence": 0.9,
+        "evidence": "Maya: Oh, speaking of sensors, the new LIDAR we got last month? It\u2019s showing some noise issues. ... Maya: Yeah, I started with a basic median filter, but it might need something more advanced... Nina: Raj, could you help Maya with that? ... Nina: Maya to handle sensor noise..."
+      },
+      {
+        "title": "Conduct further experiments to improve robot success rate",
+        "description": "Maya will continue running experiments in the cluttered environment scenario with the goal of increasing the robot's success rate to at least 80% to be competitive for the conference.",
+        "owner": "Maya",
+        "deadline": "by November 20th (for final results)",
+        "priority": "High",
+        "confidence": 0.9,
+        "evidence": "Maya: Speaking of experiments, I ran the latest robot in the cluttered environment scenario last week. The success rate was about 65%... Liam: But we still need to get to at least 80% to be competitive for the conference. Nina: Maya to... run experiments"
+      }
+    ],
+    "meeting_summary": "The team reviewed progress on robot navigation, sensor issues, and paper writing for an upcoming conference. Key decisions included prioritizing robot stability for a December demo, finalizing paper experiments by November 20th, and scheduling a collaborative writing session. Several tasks were assigned to address technical challenges, resource needs, and system audits.",
+    "decisions": [
+      "Experiments and results for the conference paper need to be finalized by November 20th.",
+      "A paper writing session is scheduled for next Tuesday at 3 PM.",
+      "Demo stability for the robot is the top priority for development leading up to the December robotics conference.",
+      "A power audit for the robot will be planned for next week."
+    ],
+    "participants": [
+      "Nina",
+      "Raj",
+      "Maya",
+      "Liam"
+    ],
+    "planned_tasks": [
+      {
+        "title": "Integrate dynamic obstacle model for robot navigation",
+        "description": "Raj needs to work on integrating a dynamic obstacle model or a more adaptive approach to improve robot navigation, specifically addressing struggles with dynamic obstacles in real-world environments.",
+        "owner": "Raj",
+        "deadline": "this week",
+        "priority": "High",
+        "confidence": 1.0,
+        "evidence": "Nina: Okay, sounds like a plan. Can you prioritize that for this sprint? Raj: Yeah, I can work on integrating that this week, although I\u2019m a bit swamped with other tasks, but I\u2019ll try to make it happen.",
+        "owner_valid": true,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Define detailed requirements",
+          "Execute the core work",
+          "Review quality",
+          "Deliver outcomes"
+        ],
+        "estimated_effort": "Large"
+      },
+      {
+        "title": "Collaborate on a better LIDAR filtering approach",
+        "description": "Raj will collaborate with Maya to find a better filtering approach for the new LIDAR sensor, which is showing sporadic spikes and noise issues, to improve obstacle detection.",
+        "owner": "Raj",
+        "deadline": "Thursday or Friday",
+        "priority": "Medium",
+        "confidence": 1.0,
+        "evidence": "Nina: Raj, could you help Maya with that? Maybe collaborate on a better filtering approach? Raj: Yeah, that makes sense. I\u2019ll set aside some time to look into it. Probably Thursday or Friday.",
+        "owner_valid": true,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Define detailed requirements",
+          "Execute the core work",
+          "Review quality",
+          "Deliver outcomes"
+        ],
+        "estimated_effort": "Large"
+      },
+      {
+        "title": "Prioritize testing and tuning drift correction algorithm",
+        "description": "Liam needs to prioritize testing and tuning the new drift correction algorithm he is developing, aiming to have a prototype ready soon.",
+        "owner": "Liam",
+        "deadline": "by next week",
+        "priority": "High",
+        "confidence": 1.0,
+        "evidence": "Nina: Okay, Liam, prioritize testing and tuning that. Can you have a prototype by next week? Liam: I\u2019ll do my best.",
+        "owner_valid": true,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Define detailed requirements",
+          "Execute the core work",
+          "Review quality",
+          "Deliver outcomes"
+        ],
+        "estimated_effort": "Large"
+      },
+      {
+        "title": "Draft methodology and experiments sections for the paper",
+        "description": "Raj and Maya will be responsible for drafting the methodology and experiments sections of the upcoming conference paper.",
+        "owner": "Raj, Maya",
+        "deadline": "TBD (by November 20th implicitly for final draft)",
+        "priority": "High",
+        "confidence": 0.63,
+        "evidence": "Nina: Raj, you and Maya can draft methodology and experiments sections? Raj: Yeah, sounds good. Maya: Sure, happy to.",
+        "owner_valid": false,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Outline the main sections",
+          "Draft initial content",
+          "Review and revise",
+          "Share for feedback"
+        ],
+        "estimated_effort": "Medium"
+      },
+      {
+        "title": "Draft results and discussion sections for the paper",
+        "description": "Liam will be responsible for drafting the results and discussion sections of the upcoming conference paper.",
+        "owner": "Liam",
+        "deadline": "TBD (by November 20th implicitly for final draft)",
+        "priority": "High",
+        "confidence": 0.9,
+        "evidence": "Nina: Liam, can you work on results and discussion? Liam: Will do.",
+        "owner_valid": true,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Outline the main sections",
+          "Draft initial content",
+          "Review and revise",
+          "Share for feedback"
+        ],
+        "estimated_effort": "Medium"
+      },
+      {
+        "title": "Draft intro and abstract sections for the paper",
+        "description": "Nina will be responsible for drafting the introduction and abstract sections of the upcoming conference paper.",
+        "owner": "Nina",
+        "deadline": "TBD (by November 20th implicitly for final draft)",
+        "priority": "High",
+        "confidence": 0.9,
+        "evidence": "Nina: And I\u2019ll handle intro and abstract.",
+        "owner_valid": true,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Outline the main sections",
+          "Draft initial content",
+          "Review and revise",
+          "Share for feedback"
+        ],
+        "estimated_effort": "Medium"
+      },
+      {
+        "title": "Attend paper writing session",
+        "description": "All participants are expected to attend a scheduled writing session to work on the conference paper.",
+        "owner": "Raj, Liam, Maya, Nina",
+        "deadline": "next Tuesday at 3 PM",
+        "priority": "Medium",
+        "confidence": 0.7,
+        "evidence": "Maya: Should we schedule a writing session next week? Nina: Good idea. How about Tuesday at 3 PM? Raj: Works for me. Liam: Same here. Maya: Okay, Tuesday it is.",
+        "owner_valid": false,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Define detailed requirements",
+          "Execute the core work",
+          "Review quality",
+          "Deliver outcomes"
+        ],
+        "estimated_effort": "Large"
+      },
+      {
+        "title": "Check with admin for new LIDAR sensor order",
+        "description": "Nina will check with administration to fast-track an order for an additional LIDAR sensor due to current heavy use and repair needs.",
+        "owner": "Nina",
+        "deadline": "TBD",
+        "priority": "Medium",
+        "confidence": 0.9,
+        "evidence": "Raj: We might need an extra LIDAR sensor. ... Nina: Let me check with admin. Hopefully, they can fast-track a new order.",
+        "owner_valid": true,
+        "deadline_valid": false,
+        "execution_steps": [
+          "Define detailed requirements",
+          "Execute the core work",
+          "Review quality",
+          "Deliver outcomes"
+        ],
+        "estimated_effort": "Small"
+      },
+      {
+        "title": "Help test patches for simulation environment update",
+        "description": "Liam will help test patches when they become available to fix bugs in the updated simulation environment, particularly issues with the physics engine not syncing correctly.",
+        "owner": "Liam",
+        "deadline": "TBD (when patches are released)",
+        "priority": "Medium",
+        "confidence": 0.9,
+        "evidence": "Maya: Also, the simulation environment crashed twice last week. We need to update it. Liam: I can help test patches when they come out. Nina: Thanks, Liam. That\u2019ll be a big help.",
+        "owner_valid": true,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Assess current state",
+          "Plan changes",
+          "Implement updates",
+          "Test and verify"
+        ],
+        "estimated_effort": "Small"
+      },
+      {
+        "title": "Plan and conduct a power audit for the robot",
+        "description": "The team needs to plan and conduct an audit of the robot's power consumption, as battery life is low and some modules draw more current than expected.",
+        "owner": "TBD",
+        "deadline": "next week (plan for)",
+        "priority": "High",
+        "confidence": 0.8,
+        "evidence": "Raj: Also, the robot\u2019s battery life is low. Should we look into replacements or optimize power consumption? Liam: Yeah, I think a power audit is due. Nina: Let\u2019s plan for that next week.",
+        "owner_valid": false,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Define detailed requirements",
+          "Execute the core work",
+          "Review quality",
+          "Deliver outcomes"
+        ],
+        "estimated_effort": "Large"
+      },
+      {
+        "title": "Monitor risks related to project progress",
+        "description": "Raj and Maya should continue to monitor the identified risks: underestimating time needed for dynamic obstacle integration (Raj) and potential delays in hardware delivery (Maya).",
+        "owner": "Raj, Maya",
+        "deadline": "Ongoing",
+        "priority": "Medium",
+        "confidence": 0.5599999999999999,
+        "evidence": "Raj: The main risk is underestimating the time needed for dynamic obstacle integration. Maya: Also, potential delays in hardware delivery could hold us back. Nina: Okay, keep monitoring those.",
+        "owner_valid": false,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Define detailed requirements",
+          "Execute the core work",
+          "Review quality",
+          "Deliver outcomes"
+        ],
+        "estimated_effort": "Large"
+      },
+      {
+        "title": "Audit the data logging system",
+        "description": "Raj will conduct an audit of the data logging system to investigate inconsistencies and lost data packets during wireless transmission. Liam will assist with this audit.",
+        "owner": "Raj, Liam",
+        "deadline": "by Friday",
+        "priority": "High",
+        "confidence": 0.63,
+        "evidence": "Raj: One more thing \u2014 I noticed our data logging system is inconsistent. ... Nina: Let\u2019s have an audit of the logging system by Friday. Raj: Will do. Nina: ...Liam to test drift correction and assist with logging audit...",
+        "owner_valid": false,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Define detailed requirements",
+          "Execute the core work",
+          "Review quality",
+          "Deliver outcomes"
+        ],
+        "estimated_effort": "Large"
+      },
+      {
+        "title": "Address LIDAR sensor noise issues",
+        "description": "Maya needs to continue addressing the sporadic spikes and noise issues with the new LIDAR sensor, potentially exploring more advanced filtering algorithms. Raj will collaborate on this.",
+        "owner": "Maya",
+        "deadline": "TBD (ongoing effort)",
+        "priority": "High",
+        "confidence": 0.9,
+        "evidence": "Maya: Oh, speaking of sensors, the new LIDAR we got last month? It\u2019s showing some noise issues. ... Maya: Yeah, I started with a basic median filter, but it might need something more advanced... Nina: Raj, could you help Maya with that? ... Nina: Maya to handle sensor noise...",
+        "owner_valid": true,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Define detailed requirements",
+          "Execute the core work",
+          "Review quality",
+          "Deliver outcomes"
+        ],
+        "estimated_effort": "Large"
+      },
+      {
+        "title": "Conduct further experiments to improve robot success rate",
+        "description": "Maya will continue running experiments in the cluttered environment scenario with the goal of increasing the robot's success rate to at least 80% to be competitive for the conference.",
+        "owner": "Maya",
+        "deadline": "by November 20th (for final results)",
+        "priority": "High",
+        "confidence": 0.9,
+        "evidence": "Maya: Speaking of experiments, I ran the latest robot in the cluttered environment scenario last week. The success rate was about 65%... Liam: But we still need to get to at least 80% to be competitive for the conference. Nina: Maya to... run experiments",
+        "owner_valid": true,
+        "deadline_valid": true,
+        "execution_steps": [
+          "Define detailed requirements",
+          "Execute the core work",
+          "Review quality",
+          "Deliver outcomes"
+        ],
+        "estimated_effort": "Large"
+      }
+    ]
+  }
+}

@@ -1,0 +1,488 @@
+[
+  {
+    "title": "Update roadmap for onboarding & analytics",
+    "description": "Update the Q1 roadmap to reflect onboarding as the top priority and push the advanced analytics pilot to March.",
+    "owner": "Mira",
+    "deadline": "TBD",
+    "priority": "High",
+    "confidence": 0.9,
+    "evidence": "Jeffy: So onboarding is urgent and impactful. Analytics is important but less urgent. Mira, please update the roadmap to reflect that, and push analytics pilot to March? Mira: Yep, I'll shift timelines.",
+    "owner_valid": true,
+    "deadline_valid": false,
+    "execution_steps": [
+      "Assess current state",
+      "Plan changes",
+      "Implement updates",
+      "Test and verify"
+    ],
+    "estimated_effort": "Small"
+  },
+  {
+    "title": "Define 3 onboarding success KPIs",
+    "description": "Define 3 concrete Key Performance Indicators (KPIs) to measure onboarding success within 30 days.",
+    "owner": "Mira",
+    "deadline": "Tomorrow morning",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Jeffy: Also, Mira, I want 3 concrete KPIs to measure onboarding success within 30 days. Can you do that by tomorrow morning? Mira: Uh, yeah, that's doable. I'll have something by then.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Plan lightweight onboarding usability test",
+    "description": "Plan a quick, lightweight usability test, consisting of a maximum of two sessions, after the new onboarding prototype is ready.",
+    "owner": "Leah",
+    "deadline": "After new onboarding prototype is ready",
+    "priority": "Medium",
+    "confidence": 0.9,
+    "evidence": "Leah: Should we plan a quick usability test after the new onboarding prototype is ready? Nothing big, like two sessions max? Jeffy: Sounds good. Keep it lightweight.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Small"
+  },
+  {
+    "title": "Complete backend changes for onboarding",
+    "description": "Engineering team to complete the backend changes required for the onboarding flow.",
+    "owner": "Arun",
+    "deadline": "This week",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Arun: Engineering can do backend changes this week and UI next week. We're aiming for a Thursday internal demo.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Complete UI changes for onboarding",
+    "description": "Engineering team to complete the UI changes required for the onboarding flow.",
+    "owner": "Arun",
+    "deadline": "Next week",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Arun: Engineering can do backend changes this week and UI next week. We're aiming for a Thursday internal demo.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Keep internal messaging consistent about silent launch",
+    "description": "Ensure consistent internal messaging regarding the silent launch of the onboarding update, with no external ads or blog posts.",
+    "owner": "Leah",
+    "deadline": "TBD",
+    "priority": "Medium",
+    "confidence": 0.9,
+    "evidence": "Jeffy: Silent. No ads or blog posts. Leah: I'll keep messaging consistent.",
+    "owner_valid": true,
+    "deadline_valid": false,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Small"
+  },
+  {
+    "title": "Deliver design assets to engineering",
+    "description": "Deliver the necessary design assets to Arun's engineering team.",
+    "owner": "Leah",
+    "deadline": "By 8 PM tonight",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Arun: Waiting on design assets tonight. Leah: You'll have them by 8 PM.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Plan A/B test for deferred permissions",
+    "description": "Plan an A/B test for the onboarding permission screen, specifically testing deferring some permissions to a later stage to reduce friction.",
+    "owner": "Mira",
+    "deadline": "Post-launch",
+    "priority": "Medium",
+    "confidence": 0.9,
+    "evidence": "Mira: That could reduce friction. Should we test that variant? Jeffy: Yes, put that in as an A/B test post-launch.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Design explanatory microcopy/tooltips for permission screen",
+    "description": "Work on designing explanatory microcopy or short tooltips to clarify why certain permissions are needed upfront on the onboarding screen.",
+    "owner": "Daniel",
+    "deadline": "TBD",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Jeffy: Sounds good, Daniel. Can you work on that? Daniel: Will do.",
+    "owner_valid": true,
+    "deadline_valid": false,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Record usability testing sessions",
+    "description": "Ensure that all usability testing sessions are recorded for detailed analysis.",
+    "owner": "Leah",
+    "deadline": "Before or during usability tests",
+    "priority": "Medium",
+    "confidence": 0.9,
+    "evidence": "Jeffy: Excellent. Make sure to record sessions for analysis.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Draft internal messaging about analytics pilot delay",
+    "description": "Draft messaging for internal teams, such as marketing, to manage expectations regarding the delay of the analytics pilot to March.",
+    "owner": "Leah",
+    "deadline": "TBD",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Jeffy: We need to manage expectations. Leah, please help draft messaging to internal teams. Leah: On it.",
+    "owner_valid": true,
+    "deadline_valid": false,
+    "execution_steps": [
+      "Outline the main sections",
+      "Draft initial content",
+      "Review and revise",
+      "Share for feedback"
+    ],
+    "estimated_effort": "Medium"
+  },
+  {
+    "title": "Fix data pipeline bugs for analytics",
+    "description": "Use the extra time gained from delaying the analytics pilot to improve data accuracy and fix existing data pipeline bugs for the analytics backend.",
+    "owner": "Arun",
+    "deadline": "By March",
+    "priority": "Medium",
+    "confidence": 0.9,
+    "evidence": "Arun: About analytics backend, if we delay pilot, can we use this time to improve data accuracy? Jeffy: Absolutely. Use the extra time to fix data pipeline bugs.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Prepare a roadmap update deck",
+    "description": "Prepare a concise presentation deck outlining the key changes and dates for the updated roadmap.",
+    "owner": "Mira",
+    "deadline": "TBD",
+    "priority": "High",
+    "confidence": 0.9,
+    "evidence": "Mira: For the roadmap update, do you want a formal doc or just a quick deck? Jeffy: Deck with key changes and dates. Keep it tight.",
+    "owner_valid": true,
+    "deadline_valid": false,
+    "execution_steps": [
+      "Assess current state",
+      "Plan changes",
+      "Implement updates",
+      "Test and verify"
+    ],
+    "estimated_effort": "Small"
+  },
+  {
+    "title": "Prepare to field questions for Thursday demo",
+    "description": "Prepare to answer potential questions from the team during the internal demo of the core onboarding flow.",
+    "owner": "Mira",
+    "deadline": "By Thursday",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Mira: Will product be ready to field questions? Jeffy: Yes, Mira, you should be prepped.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Prepare agenda/materials",
+      "Schedule with participants",
+      "Conduct the session",
+      "Document outcomes"
+    ],
+    "estimated_effort": "Medium"
+  },
+  {
+    "title": "Prepare user feedback snippets for demo",
+    "description": "Prepare quick user feedback snippets to present during the internal onboarding demo.",
+    "owner": "Leah",
+    "deadline": "By Thursday",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Leah: I can prepare quick user feedback snippets for the demo. Jeffy: Perfect.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Prepare agenda/materials",
+      "Schedule with participants",
+      "Conduct the session",
+      "Document outcomes"
+    ],
+    "estimated_effort": "Small"
+  },
+  {
+    "title": "Invite Customer Success to onboarding demo",
+    "description": "Invite the Customer Success team to attend the internal demo of the core onboarding flow.",
+    "owner": "Leah",
+    "deadline": "Before Thursday",
+    "priority": "Medium",
+    "confidence": 0.9,
+    "evidence": "Leah: Should we invite customer success team? Jeffy: Yeah, good idea.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Prepare agenda/materials",
+      "Schedule with participants",
+      "Conduct the session",
+      "Document outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Conduct smoke tests for onboarding",
+    "description": "The QA team is to conduct smoke tests for the new onboarding flow.",
+    "owner": "Arun",
+    "deadline": "By Wednesday",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Arun: QA is prepping test cases for onboarding. Will do smoke tests by Wednesday.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Finish final design icons",
+    "description": "Complete the design of the final icons required for the onboarding project.",
+    "owner": "Daniel",
+    "deadline": "Today",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Arun: Design asset delay, but Daniel is on it. Daniel: Yep, finishing final icons today.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Review final design icons",
+    "description": "Review the final design icons completed by Daniel.",
+    "owner": "Leah",
+    "deadline": "Tomorrow morning",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Leah: I'll review those tomorrow morning.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Add qualitative feedback to post-onboarding survey",
+    "description": "Incorporate qualitative feedback, such as an 'ease of use' rating, into the post-onboarding survey.",
+    "owner": "Leah",
+    "deadline": "TBD (before survey launch)",
+    "priority": "Medium",
+    "confidence": 0.9,
+    "evidence": "Mira: For KPIs, we might want to add qualitative feedback, like \u201cease of use\u201d rating. Jeffy: Good call. Leah: We'll add that to post-onboarding survey.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Push for design intern hire",
+    "description": "Advocate and push forward the initiative to hire a design intern to help alleviate resource constraints.",
+    "owner": "Mira",
+    "deadline": "TBD",
+    "priority": "Medium",
+    "confidence": 0.9,
+    "evidence": "Jeffy: Can we get an intern in design? Mira: I\u2019ll push for it.",
+    "owner_valid": true,
+    "deadline_valid": false,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Expedite design intern hiring process",
+    "description": "Work to speed up the process for hiring a design intern.",
+    "owner": "Mira",
+    "deadline": "TBD (as quickly as possible)",
+    "priority": "High",
+    "confidence": 0.8,
+    "evidence": "Jeffy: Cool, please speed that up.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Build onboarding as modular pieces",
+    "description": "Engineer the onboarding flow using modular components to facilitate easier future iterations and avoid extensive rewrites.",
+    "owner": "Arun",
+    "deadline": "TBD (ongoing development)",
+    "priority": "High",
+    "confidence": 0.9,
+    "evidence": "Jeffy: Worth it. Build modular to avoid rewrites later. Mira: Got it.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Design clearer error messages",
+    "description": "Design clearer and more user-friendly error messages for the onboarding process, based on user feedback.",
+    "owner": "Daniel",
+    "deadline": "Next week",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Jeffy: Definitely a must. Daniel: Will work on error message designs next week.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Large"
+  },
+  {
+    "title": "Send weekly email updates to Marketing on onboarding progress",
+    "description": "Provide weekly email updates to the Marketing team regarding the progress of the onboarding project.",
+    "owner": "Mira",
+    "deadline": "Weekly (ongoing)",
+    "priority": "Medium",
+    "confidence": 0.9,
+    "evidence": "Mira: Marketing still wants early heads-up on onboarding progress. Jeffy: Weekly email updates to them.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Assess current state",
+      "Plan changes",
+      "Implement updates",
+      "Test and verify"
+    ],
+    "estimated_effort": "Small"
+  },
+  {
+    "title": "Coordinate legal compliance check for analytics data retention",
+    "description": "Coordinate with the legal team to clarify and ensure compliance regarding the analytics data retention policy.",
+    "owner": "Mira",
+    "deadline": "TBD",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Arun: Need to clarify analytics data retention policy. Jeffy: Compliance check with legal. Mira: I\u2019ll coordinate.",
+    "owner_valid": true,
+    "deadline_valid": false,
+    "execution_steps": [
+      "Define detailed requirements",
+      "Execute the core work",
+      "Review quality",
+      "Deliver outcomes"
+    ],
+    "estimated_effort": "Small"
+  },
+  {
+    "title": "Update onboarding help pages",
+    "description": "Update existing user support help documentation relevant to the new onboarding process.",
+    "owner": "Leah",
+    "deadline": "This week",
+    "priority": "High",
+    "confidence": 1.0,
+    "evidence": "Mira: Regarding user support, is there a help doc update planned? Leah: Yes, updating onboarding help pages this week.",
+    "owner_valid": true,
+    "deadline_valid": true,
+    "execution_steps": [
+      "Assess current state",
+      "Plan changes",
+      "Implement updates",
+      "Test and verify"
+    ],
+    "estimated_effort": "Small"
+  }
+]

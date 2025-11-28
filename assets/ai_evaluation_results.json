@@ -1,0 +1,216 @@
+{
+  "meeting_01": {
+    "transcript_id": "meeting_01",
+    "ground_truth_tasks": 19,
+    "ai_predicted_tasks": 24,
+    "task_precision": 0.267,
+    "task_recall": 0.267,
+    "task_f1": 0.267,
+    "owner_accuracy": 0.421,
+    "priority_accuracy": 0.316,
+    "evaluation_method": "AI-judge",
+    "details": {
+      "ground_truth_titles": [
+        "Update roadmap to prioritize onboarding",
+        "Define 3 KPIs for onboarding success",
+        "Plan quick usability test for onboarding",
+        "Prepare Thursday internal demo",
+        "Add explanatory microcopy to permissions screen"
+      ],
+      "ai_titles": [
+        "Update Q1 roadmap",
+        "Define 3 onboarding success KPIs",
+        "Plan lightweight usability test for new onboarding",
+        "Ensure consistent messaging for silent onboarding launch",
+        "Deliver design assets to engineering"
+      ],
+      "ground_truth_owners": [
+        "Mira",
+        "Mira",
+        "Leah",
+        "Arun",
+        "Daniel"
+      ],
+      "ai_owners": [
+        "Mira",
+        "Mira",
+        "Leah",
+        "Leah",
+        "Leah"
+      ]
+    }
+  },
+  "meeting_02": {
+    "transcript_id": "meeting_02",
+    "ground_truth_tasks": 14,
+    "ai_predicted_tasks": 14,
+    "task_precision": 0.286,
+    "task_recall": 0.286,
+    "task_f1": 0.286,
+    "owner_accuracy": 0.571,
+    "priority_accuracy": 0.714,
+    "evaluation_method": "AI-judge",
+    "details": {
+      "ground_truth_titles": [
+        "Prioritize dynamic obstacle integration",
+        "Collaborate on advanced sensor filtering",
+        "Finalize experiments and results",
+        "Improve robot success rate",
+        "Test and tune drift correction algorithm"
+      ],
+      "ai_titles": [
+        "Integrate dynamic obstacle model for robot navigation",
+        "Collaborate on a better LIDAR filtering approach",
+        "Prioritize testing and tuning drift correction algorithm",
+        "Draft methodology and experiments sections for the paper",
+        "Draft results and discussion sections for the paper"
+      ],
+      "ground_truth_owners": [
+        "Raj",
+        "Raj; Maya",
+        "Team",
+        "Raj; Maya; Liam",
+        "Liam"
+      ],
+      "ai_owners": [
+        "Raj",
+        "Raj",
+        "Liam",
+        "Raj, Maya",
+        "Liam"
+      ]
+    }
+  },
+  "meeting_03": {
+    "transcript_id": "meeting_03",
+    "ground_truth_tasks": 18,
+    "ai_predicted_tasks": 17,
+    "task_precision": 0.133,
+    "task_recall": 0.133,
+    "task_f1": 0.133,
+    "owner_accuracy": 0.412,
+    "priority_accuracy": 0.529,
+    "evaluation_method": "AI-judge",
+    "details": {
+      "ground_truth_titles": [
+        "Stabilize sensor array calibration",
+        "Provide calibration help on Thursday",
+        "Investigate intermittent control board resets",
+        "Implement power smoothing circuit",
+        "Coordinate power supply stability check"
+      ],
+      "ai_titles": [
+        "Stabilize sensor array",
+        "Assist with sensor array stabilization",
+        "Implement power smoothing circuit",
+        "Coordinate to verify power supply stability",
+        "Analyze battery runtime discrepancy"
+      ],
+      "ground_truth_owners": [
+        "Mark",
+        "Jin",
+        "Sofia",
+        "Sofia",
+        "Mark"
+      ],
+      "ai_owners": [
+        "Mark",
+        "Jin",
+        "Sofia",
+        "Mark",
+        "Mark"
+      ]
+    }
+  },
+  "meeting_04": {
+    "transcript_id": "meeting_04",
+    "ground_truth_tasks": 12,
+    "ai_predicted_tasks": 10,
+    "task_precision": 0.6,
+    "task_recall": 0.6,
+    "task_f1": 0.6,
+    "owner_accuracy": 0.7,
+    "priority_accuracy": 0.7,
+    "evaluation_method": "AI-judge",
+    "details": {
+      "ground_truth_titles": [
+        "Coordinate manual logging backup",
+        "Organize manual logs",
+        "Coordinate replacement sensor delivery",
+        "Document improvement metrics",
+        "Analyze battery shutdown data"
+      ],
+      "ai_titles": [
+        "Coordinate manual logging setup",
+        "Lead organization of manual logs",
+        "Update report with robot improvement metrics",
+        "Apply filters to clean noisy battery data",
+        "Collaborate on battery issue investigation"
+      ],
+      "ground_truth_owners": [
+        "Priya",
+        "Derek",
+        "Priya",
+        "Priya",
+        "Derek"
+      ],
+      "ai_owners": [
+        "Priya",
+        "Derek",
+        "Priya",
+        "Derek",
+        "Derek, Priya"
+      ]
+    }
+  },
+  "meeting_05": {
+    "transcript_id": "meeting_05",
+    "ground_truth_tasks": 13,
+    "ai_predicted_tasks": 10,
+    "task_precision": 0.0,
+    "task_recall": 0.0,
+    "task_f1": 0,
+    "owner_accuracy": 0.4,
+    "priority_accuracy": 0.7,
+    "evaluation_method": "AI-judge",
+    "details": {
+      "ground_truth_titles": [
+        "Monitor QA sign-off progress",
+        "Communicate rollout delays",
+        "Complete explainer video",
+        "Adjust marketing launch schedule",
+        "Line up influencers and partners"
+      ],
+      "ai_titles": [
+        "Keep stakeholders updated on launch delays",
+        "Complete final version of explainer video",
+        "Communicate launch and marketing shifts to leadership team",
+        "Continue working on influencer/partner pitches",
+        "Distribute customer support FAQ document"
+      ],
+      "ground_truth_owners": [
+        "Carlos",
+        "Sophia",
+        "Tara",
+        "Sophia",
+        "Aisha"
+      ],
+      "ai_owners": [
+        "Carlos",
+        "Tara",
+        "Sophia",
+        "Aisha",
+        "Tara"
+      ]
+    }
+  },
+  "overall": {
+    "avg_task_f1": 0.257,
+    "avg_task_precision": 0.257,
+    "avg_task_recall": 0.257,
+    "avg_owner_accuracy": 0.501,
+    "avg_priority_accuracy": 0.592,
+    "total_meetings_evaluated": 5,
+    "evaluation_method": "AI-judge"
+  }
+}
