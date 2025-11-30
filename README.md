@@ -22,7 +22,7 @@ Result: Critical tasks fall through the cracks, deadlines are missed, and meetin
 
 ---
 
-## 💡 Our Solution
+## 💡 My Solution
 
 **Meeting→Execution Agent** is an AI-powered multi-agent pipeline that automatically converts raw meeting transcripts into:
 
